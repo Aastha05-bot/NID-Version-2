@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nepal's Biometric Present - Interactive Report</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ================= TOP NAV ================= -->
+<div class="topnav">
+  <span class="brand" data-en="Nepal's Biometric Present" data-ne="नेपालको बायोमेट्रिक वर्तमान">Nepal's Biometric Present</span>
+  <div class="nav-controls">
+    <div class="zoom-group">
+      <button id="zoomOut" title="Decrease text size">A-</button>
+      <button id="zoomIn" title="Increase text size">A+</button>
+    </div>
+    <button class="nav-btn" id="langToggle" type="button" disabled aria-disabled="true" title="Nepali translation unavailable">नेपाली</button>
+  </div>
+</div>
+<div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+
+<nav class="toc" id="toc" aria-label="Report contents">
+  <button class="toc-head" id="tocHead" type="button" aria-controls="tocList" aria-expanded="false">Contents</button>
+  <ul class="toc-list" id="tocList">
+    <li><a href="#glance"><span class="t">At a Glance</span><span class="s">Key figures</span></a></li>
+    <li><a href="#front-matter"><span class="t">Front Matter</span><span class="s">Acronyms &amp; terms</span></a></li>
+    <li><a href="#research-areas"><span class="t">Research Areas</span><span class="s">Field sites</span></a></li>
+    <li><a href="#exec-summary"><span class="t">Executive Summary</span><span class="s">Report summary</span></a></li>
+    <li><a href="#ch1"><span class="t">Ch. 1</span><span class="s">Overview</span></a></li>
+    <li><a href="#ch2"><span class="t">Ch. 2</span><span class="s">Birth of the National ID</span></a></li>
+    <li><a href="#ch3"><span class="t">Ch. 3</span><span class="s">How the government is working</span></a></li>
+    <li><a href="#ch4"><span class="t">Ch. 4</span><span class="s">Disputes and differences</span></a></li>
+    <li><a href="#ch5"><span class="t">Ch. 5</span><span class="s">Right to privacy</span></a></li>
+    <li><a href="#moving-forward"><span class="t">Ch. 6</span><span class="s">Moving forward</span></a></li>
+    <li><a href="#references"><span class="t">References &amp; Footnotes</span><span class="s">Sources &amp; notes</span></a></li>
+  </ul>
+</nav>
+
+<!-- ================= COVER ================= -->
+<header class="cover">
+  <div class="cover-grid">
+    <div class="cover-text">
+      <div class="eyebrow-row">
+        <span class="pill">Published 2025</span>
+        <span class="pill filled">Field Investigation</span>
+      </div>
+      <h1 data-en="Nepal's Biometric Present" data-ne="नेपालको बायोमेट्रिक वर्तमान">Nepal's Biometric Present</h1>
+      <p class="subtitle">In November 2018, the Government of Nepal introduced the National Identity Card (NID) with the ambition of enrolling all citizens biometrically by 2023. This study investigates the social consequences, bureaucratic friction, and constitutional challenges of Nepal's digital ID program across administrative centers and remote rural settlements.</p>
+      <div class="cover-meta">
+        <div>
+          <div class="k">Research Contribution</div>
+          <div class="v">Bhaskar Gautam, Dovan Rai, Rita Baramu, Sapana Sanjeevani, Monika, Nuva Rai</div>
+          <div class="k">Local Coordinators</div>
+          <div class="v">Irshat Khatoon (Sarlahi)  Barsha Rai (Khotang)</div>
+        </div>
+        <div>
+          <div class="k">Copy-Editing</div>
+          <div class="v">Shafali Uprety</div>
+          <div class="k">Cover Illustration</div>
+          <div class="v">Supriya Manandhar</div>
+          <div class="k">Support</div>
+          <div class="v">Open Society Foundations (OSF)</div>
+        </div>
+      </div>
+      <div class="cover-cta">
+        <a href="#glance">Dive into the report</a>
+      </div>
+    </div>
+    <div class="cover-img-col">
+      <img src="/Cover.png" alt="Nepal's Biometric Present  report cover illustration by Supriya Manandhar">
+    </div>
+  </div>
+</header>
+
+<main class="wrap" id="report-content"></main>
+
+<footer>
+  <strong data-en="Nepal's Biometric Present: Governance, Accessibility & Accountability" data-ne="  : ,   ">Nepal's Biometric Present: Governance, Accessibility &amp; Accountability</strong>
+  <p style="margin-top:8px;" data-en="Body&Data is a digital rights organization in Nepal that works towards creating accessible, safe, and just digital spaces for all." data-ne="Body &amp; Data         - -, ,      -  -">Body &amp; Data is a digital rights organization in Nepal that works towards creating accessible, safe, and just digital spaces for all.</p>
+  <p style="margin-top:6px;">bodyanddata.org</p>
+</footer>
+
+<script src="script.js" defer></script>
+
+</body>
+</html>
+
+
