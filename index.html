@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Nepal's Biometric Present - Interactive Report</title>
+<title data-en="Nepal’s Biometric Present: Governance, Accessibility and Accountability | Interactive Report" data-ne="नेपालको बायोमेट्रिक वर्तमान: शासन, पहुँचयोग्यता र जवाफदेहिता | अन्तरक्रियात्मक प्रतिवेदन">Nepal&#8217;s Biometric Present: Governance, Accessibility and Accountability | Interactive Report</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&display=swap" rel="stylesheet">
@@ -19,25 +19,25 @@
       <button id="zoomOut" title="Decrease text size">A-</button>
       <button id="zoomIn" title="Increase text size">A+</button>
     </div>
-    <button class="nav-btn" id="langToggle" type="button" disabled aria-disabled="true" title="Nepali translation unavailable">नेपाली</button>
+    <button class="nav-btn" id="langToggle" type="button" aria-label="Switch to Nepali" aria-pressed="false" title="Switch to Nepali">नेपाली</button>
   </div>
 </div>
 <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
 
 <nav class="toc" id="toc" aria-label="Report contents">
-  <button class="toc-head" id="tocHead" type="button" aria-controls="tocList" aria-expanded="false">Contents</button>
+  <button class="toc-head" id="tocHead" type="button" aria-controls="tocList" aria-expanded="false" data-en="Contents" data-ne="विषयसूची">Contents</button>
   <ul class="toc-list" id="tocList">
-    <li><a href="#glance"><span class="t">At a Glance</span><span class="s">Key figures</span></a></li>
-    <li><a href="#front-matter"><span class="t">Front Matter</span><span class="s">Acronyms &amp; terms</span></a></li>
-    <li><a href="#research-areas"><span class="t">Research Areas</span><span class="s">Field sites</span></a></li>
-    <li><a href="#exec-summary"><span class="t">Executive Summary</span><span class="s">Report summary</span></a></li>
-    <li><a href="#ch1"><span class="t">Ch. 1</span><span class="s">Overview</span></a></li>
-    <li><a href="#ch2"><span class="t">Ch. 2</span><span class="s">Birth of the National ID</span></a></li>
-    <li><a href="#ch3"><span class="t">Ch. 3</span><span class="s">How the government is working</span></a></li>
-    <li><a href="#ch4"><span class="t">Ch. 4</span><span class="s">Disputes and differences</span></a></li>
-    <li><a href="#ch5"><span class="t">Ch. 5</span><span class="s">Right to privacy</span></a></li>
-    <li><a href="#moving-forward"><span class="t">Ch. 6</span><span class="s">Moving forward</span></a></li>
-    <li><a href="#references"><span class="t">References &amp; Footnotes</span><span class="s">Sources &amp; notes</span></a></li>
+    <li><a href="#glance"><span class="t" data-en="At a Glance" data-ne="एक नजरमा">At a Glance</span><span class="s" data-en="Key figures" data-ne="मुख्य तथ्यांक">Key figures</span></a></li>
+    <li><a href="#front-matter"><span class="t" data-en="Front Matter" data-ne="प्रारम्भिक सामग्री">Front Matter</span><span class="s" data-en="Acronyms &amp; terms" data-ne="संक्षिप्त रूप र शब्दावली">Acronyms &amp; terms</span></a></li>
+    <li><a href="#research-areas"><span class="t" data-en="Research Areas" data-ne="अनुसन्धान क्षेत्रहरू">Research Areas</span><span class="s" data-en="Field sites" data-ne="अध्ययन क्षेत्रहरू">Field sites</span></a></li>
+    <li><a href="#exec-summary"><span class="t" data-en="Executive Summary" data-ne="कार्यकारी सारांश">Executive Summary</span><span class="s" data-en="Report summary" data-ne="प्रतिवेदनको सारांश">Report summary</span></a></li>
+    <li><a href="#ch1"><span class="t" data-en="Ch. 1" data-ne="अध्याय १">Ch. 1</span><span class="s" data-en="Introduction" data-ne="परिचय">Introduction</span></a></li>
+    <li><a href="#ch2"><span class="t" data-en="Ch. 2" data-ne="अध्याय २">Ch. 2</span><span class="s" data-en="Birth of the National ID Card" data-ne="राष्ट्रिय परिचयपत्रको सुरुवात">Birth of the National ID Card</span></a></li>
+    <li><a href="#ch3"><span class="t" data-en="Ch. 3" data-ne="अध्याय ३">Ch. 3</span><span class="s" data-en="How the government is working" data-ne="सरकारले कसरी काम गरिरहेको छ">How the government is working</span></a></li>
+    <li><a href="#ch4"><span class="t" data-en="Ch. 4" data-ne="अध्याय ४">Ch. 4</span><span class="s" data-en="Disputes and differences" data-ne="विवाद र मतभेद">Disputes and differences</span></a></li>
+    <li><a href="#ch5"><span class="t" data-en="Ch. 5" data-ne="अध्याय ५">Ch. 5</span><span class="s" data-en="Right to privacy" data-ne="गोपनीयताको हक">Right to privacy</span></a></li>
+    <li><a href="#moving-forward"><span class="t" data-en="Ch. 6" data-ne="अध्याय ६">Ch. 6</span><span class="s" data-en="Moving forward" data-ne="आगामी दिशा">Moving forward</span></a></li>
+    <li><a href="#references"><span class="t" data-en="References &amp; Footnotes" data-ne="सन्दर्भ र पादटिप्पणी">References &amp; Footnotes</span><span class="s" data-en="Sources &amp; notes" data-ne="स्रोत र टिप्पणी">Sources &amp; notes</span></a></li>
   </ul>
 </nav>
 
@@ -46,29 +46,31 @@
   <div class="cover-grid">
     <div class="cover-text">
       <div class="eyebrow-row">
-        <span class="pill">Published 2025</span>
-        <span class="pill filled">Field Investigation</span>
+        <span class="pill" data-en="Published 2026" data-ne="प्रकाशित २०२६">Published 2026</span>
+        <span class="pill filled" data-en="Field Investigation" data-ne="क्षेत्रीय अनुसन्धान">Field Investigation</span>
       </div>
-      <h1 data-en="Nepal's Biometric Present" data-ne="नेपालको बायोमेट्रिक वर्तमान">Nepal's Biometric Present</h1>
-      <p class="subtitle">In November 2018, the Government of Nepal introduced the National Identity Card (NID) with the ambition of enrolling all citizens biometrically by 2023. This study investigates the social consequences, bureaucratic friction, and constitutional challenges of Nepal's digital ID program across administrative centers and remote rural settlements.</p>
+      <h1 data-en="Nepal’s Biometric Present: Governance, Accessibility and Accountability" data-ne="नेपालको बायोमेट्रिक वर्तमान: शासन, पहुँचयोग्यता र जवाफदेहिता">नेपालको बायोमेट्रिक वर्तमान: शासन, पहुँचयोग्यता र जवाफदेहिता</h1>
+      <p class="subtitle" data-en="In November 2018, the Government of Nepal launched its National ID (NID) system, an ambitious digital identity framework aimed at achieving universal biometric enrollment of all residents by 2023. Under this scheme, each individual is assigned a unique 10-digit identification number anchored to biometric indicators such as digital photographs, ten-fingerprints and iris scans, alongside core demographic data. Designed primarily as an online verification mechanism to streamline governance and service delivery, the NID’s functional application within the digital ecosystem has, however, remained profoundly underutilized since its inception." data-ne="नोभेम्बर २०१८ मा नेपाल सरकारले राष्ट्रिय परिचयपत्र (NID) प्रणालीको सुरुवात गर्‍यो। यो महत्वाकांक्षी डिजिटल पहिचान संरचना सन् २०२३ सम्म नेपालका सबै बासिन्दाको सार्वभौमिक बायोमेट्रिक दर्ता हासिल गर्ने उद्देश्यले अघि बढाइएको थियो। यस प्रणालीअन्तर्गत प्रत्येक व्यक्तिलाई डिजिटल तस्बिर, दशवटा औंलाछाप र आँखाको आइरिस स्क्यानजस्ता बायोमेट्रिक सूचकहरू तथा आधारभूत जनसांख्यिकीय विवरणसँग आबद्ध गरिएको १० अंकको विशिष्ट परिचय नम्बर प्रदान गरिन्छ। मुख्यतः शासन प्रणाली र सेवा प्रवाहलाई सरल तथा प्रभावकारी बनाउन अनलाइन प्रमाणीकरण संयन्त्रका रूपमा डिजाइन गरिएको भए पनि, डिजिटल पारिस्थितिक प्रणालीभित्र NID को कार्यात्मक प्रयोग भने यसको सुरुवातदेखि नै अत्यन्त सीमित रहँदै आएको छ।">नोभेम्बर २०१८ मा नेपाल सरकारले राष्ट्रिय परिचयपत्र (NID) प्रणालीको सुरुवात गर्‍यो। यो महत्वाकांक्षी डिजिटल पहिचान संरचना सन् २०२३ सम्म नेपालका सबै बासिन्दाको सार्वभौमिक बायोमेट्रिक दर्ता हासिल गर्ने उद्देश्यले अघि बढाइएको थियो। यस प्रणालीअन्तर्गत प्रत्येक व्यक्तिलाई डिजिटल तस्बिर, दशवटा औंलाछाप र आँखाको आइरिस स्क्यानजस्ता बायोमेट्रिक सूचकहरू तथा आधारभूत जनसांख्यिकीय विवरणसँग आबद्ध गरिएको १० अंकको विशिष्ट परिचय नम्बर प्रदान गरिन्छ। मुख्यतः शासन प्रणाली र सेवा प्रवाहलाई सरल तथा प्रभावकारी बनाउन अनलाइन प्रमाणीकरण संयन्त्रका रूपमा डिजाइन गरिएको भए पनि, डिजिटल पारिस्थितिक प्रणालीभित्र NID को कार्यात्मक प्रयोग भने यसको सुरुवातदेखि नै अत्यन्त सीमित रहँदै आएको छ।</p>
       <div class="cover-meta">
         <div>
-          <div class="k">Research Contribution</div>
-          <div class="v">Bhaskar Gautam, Dovan Rai, Rita Baramu, Sapana Sanjeevani, Monika, Nuva Rai</div>
-          <div class="k">Local Coordinators</div>
-          <div class="v">Irshat Khatoon (Sarlahi)  Barsha Rai (Khotang)</div>
+          <div class="k" data-en="Research Contribution" data-ne="अनुसन्धानमा योगदान">Research Contribution</div>
+          <div class="v">Bhaskar Gautam, Dovan Rai, Rita Baramu, Shubha Kayastha, Sapana Sanjeevani, Nuva Rai, Monika</div>
+          <div class="k" data-en="Research Assistants / Local Coordinators" data-ne="अनुसन्धान सहायक / स्थानीय संयोजक">Research Assistants / Local Coordinators</div>
+          <div class="v">Irshat Khatoon (Malangwa Municipality, Sarlahi)  Barsha Rai (Diktel Municipality, Khotang)</div>
         </div>
         <div>
-          <div class="k">Copy-Editing</div>
+          <div class="k" data-en="Copy-Editing" data-ne="प्रतिलिपि सम्पादन">Copy-Editing</div>
           <div class="v">Shafali Uprety</div>
-          <div class="k">Cover Illustration</div>
+          <div class="k" data-en="Cover Illustration" data-ne="आवरण चित्रण">Cover Illustration</div>
           <div class="v">Supriya Manandhar</div>
-          <div class="k">Support</div>
-          <div class="v">Open Society Foundations (OSF)</div>
+          <div class="k" data-en="Layout and Design" data-ne="रूपरेखा तथा डिजाइन">Layout and Design</div>
+          <div class="v">Shrijit Rajbhandari</div>
+          <div class="k" data-en="Financial Support" data-ne="आर्थिक सहयोग">Financial Support</div>
+          <div class="v">Open Society Foundation (OSF)</div>
         </div>
       </div>
       <div class="cover-cta">
-        <a href="#glance">Dive into the report</a>
+        <a href="#glance" data-en="Dive into the report" data-ne="प्रतिवेदन पढ्नुहोस्">Dive into the report</a>
       </div>
     </div>
     <div class="cover-img-col">
@@ -80,8 +82,8 @@
 <main class="wrap" id="report-content"></main>
 
 <footer>
-  <strong data-en="Nepal's Biometric Present: Governance, Accessibility & Accountability" data-ne="  : ,   ">Nepal's Biometric Present: Governance, Accessibility &amp; Accountability</strong>
-  <p style="margin-top:8px;" data-en="Body&Data is a digital rights organization in Nepal that works towards creating accessible, safe, and just digital spaces for all." data-ne="Body &amp; Data         - -, ,      -  -">Body &amp; Data is a digital rights organization in Nepal that works towards creating accessible, safe, and just digital spaces for all.</p>
+  <strong data-en="Nepal’s Biometric Present: Governance, Accessibility and Accountability" data-ne="नेपालको बायोमेट्रिक वर्तमान: शासन, पहुँचयोग्यता र जवाफदेहिता">Nepal&#8217;s Biometric Present: Governance, Accessibility and Accountability</strong>
+  <p style="margin-top:8px;">Established in 2017, Body &amp; Data works to enhance understanding of and access to information on digital rights among women, queer people, and marginalized groups, enabling them to exercise their rights in a safe and just digital space.</p>
   <p style="margin-top:6px;">bodyanddata.org</p>
 </footer>
 
@@ -89,5 +91,3 @@
 
 </body>
 </html>
-
-
