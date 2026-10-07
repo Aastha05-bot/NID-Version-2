@@ -151,7 +151,7 @@
       window.addEventListener('resize', scaleLabels);
 
       function esc(s){
-        return s.replace(/[&<>\"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+        return s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
       }
 
       function show(site){
@@ -200,5 +200,289 @@
         if (tip && !tip.contains(e.target)) hide();
       });
     }
+
+    /* ═══════════════════════════════════════════════════════════
+       LANGUAGE TOGGLE  –  English ↔ नेपाली
+       ═══════════════════════════════════════════════════════════ */
+    (function initLangToggle(){
+      const btn = document.getElementById('langToggle');
+      if (!btn) return;
+
+      let currentLang = 'en';
+
+      /* ── helper: cache original text on an element ─────────── */
+      function cacheOrig(el, attr){
+        if (!el.dataset[attr]) el.dataset[attr] = el.textContent;
+      }
+
+      /* ── 1. Static elements: swap via [data-en] / [data-ne] ── */
+      function applyLangToStaticEls(lang){
+        // Swap all elements carrying data-en / data-ne attributes
+        document.querySelectorAll('[data-en]').forEach(el => {
+          const enVal = el.getAttribute('data-en');
+          const neVal = el.getAttribute('data-ne');
+          if (!enVal && !neVal) return;
+          const target = lang === 'ne' ? neVal : enVal;
+          if (target === null || target === undefined) return;
+          // Only update leaf-text nodes (avoid overwriting children/markup)
+          const childEls = [...el.children];
+          if (childEls.length === 0) {
+            el.textContent = target;
+          }
+        });
+        // Page <title> (special case – no child elements)
+        const titleEl = document.querySelector('title');
+        if (titleEl) {
+          const val = titleEl.getAttribute('data-' + lang);
+          if (val) titleEl.textContent = val;
+        }
+        // <html lang> attribute
+        document.documentElement.lang = lang === 'ne' ? 'ne' : 'en';
+        // <body> font class for Nepali
+        document.body.classList.toggle('lang-ne', lang === 'ne');
+      }
+
+      /* ── 2. Dynamic report sections ────────────────────────── */
+      function patchSection(sectionId, t, lang){
+        const sec = document.getElementById(sectionId);
+        if (!t || !sec) return;
+
+        // eyebrow label
+        const eyebrow = sec.querySelector('.section-eyebrow');
+        if (eyebrow && t.eyebrow) {
+          cacheOrig(eyebrow, 'enOrig');
+          eyebrow.textContent = lang === 'ne' ? t.eyebrow : eyebrow.dataset.enOrig;
+        }
+
+        // h2 section title
+        const h2 = sec.querySelector('.section-title');
+        if (h2 && t.title) {
+          cacheOrig(h2, 'enOrig');
+          h2.textContent = lang === 'ne' ? t.title : h2.dataset.enOrig;
+        }
+
+        // first .section-lead paragraph
+        const lead = sec.querySelector('.section-lead');
+        if (lead && t.lead) {
+          cacheOrig(lead, 'enOrig');
+          lead.textContent = lang === 'ne' ? t.lead : lead.dataset.enOrig;
+        }
+
+        // .paras[] — map to <p> elements that are direct or near-direct children
+        if (t.paras && t.paras.length) {
+          // Gather <p> tags that sit at the section level (skip deeply nested ones in boxes)
+          const allP = [...sec.querySelectorAll('p')].filter(p => {
+            // skip paragraphs that are inside .finding-box, .acc, details, .box-panel
+            return !p.closest('.finding-box, .acc, details, .box-panel, .pop');
+          });
+          allP.forEach((p, i) => {
+            if (i >= t.paras.length) return;
+            cacheOrig(p, 'enOrig');
+            p.textContent = lang === 'ne' ? t.paras[i] : p.dataset.enOrig;
+          });
+        }
+
+        // stat bar labels (glance)
+        if (t.statLabels) {
+          const labels = [...sec.querySelectorAll('.stat-bars .label')];
+          labels.forEach((lbl, i) => {
+            if (i >= t.statLabels.length) return;
+            cacheOrig(lbl, 'enOrig');
+            lbl.textContent = lang === 'ne' ? t.statLabels[i] : lbl.dataset.enOrig;
+          });
+        }
+
+        // finding box (glance)
+        if (t.findingLabel || t.findingText) {
+          const fb = sec.querySelector('.finding-box');
+          if (fb) {
+            const lbl = fb.querySelector('.lbl');
+            if (lbl && t.findingLabel) {
+              cacheOrig(lbl, 'enOrig');
+              lbl.textContent = lang === 'ne' ? t.findingLabel : lbl.dataset.enOrig;
+            }
+            const fp = fb.querySelector('p');
+            if (fp && t.findingText) {
+              cacheOrig(fp, 'enOrig');
+              fp.textContent = lang === 'ne' ? t.findingText : fp.dataset.enOrig;
+            }
+          }
+        }
+
+        // terms lead (front-matter)
+        if (t.termsLead) {
+          const tl = sec.querySelector('.acc-body .section-lead');
+          if (tl) {
+            cacheOrig(tl, 'enOrig');
+            tl.textContent = lang === 'ne' ? t.termsLead : tl.dataset.enOrig;
+          }
+        }
+
+        // accordion summary labels
+        if (t.acronymsSummary) {
+          const summs = [...sec.querySelectorAll('summary')];
+          if (summs[0]) {
+            cacheOrig(summs[0], 'enOrig');
+            summs[0].textContent = lang === 'ne' ? t.acronymsSummary : summs[0].dataset.enOrig;
+          }
+          if (summs[1] && t.termsSummary) {
+            cacheOrig(summs[1], 'enOrig');
+            summs[1].textContent = lang === 'ne' ? t.termsSummary : summs[1].dataset.enOrig;
+          }
+        }
+
+        // acronym rows — translate the full-form span (second child of each .acr-row)
+        if (t.acronyms && t.acronyms.length) {
+          const rows = [...sec.querySelectorAll('.acr-row')];
+          rows.forEach((row, i) => {
+            if (i >= t.acronyms.length) return;
+            const span = row.children[1]; // second span = full form text
+            if (!span) return;
+            cacheOrig(span, 'enOrig');
+            span.textContent = lang === 'ne' ? t.acronyms[i] : span.dataset.enOrig;
+          });
+        }
+
+        // term cards — translate .t (title) and .d (definition) within each card
+        if (t.terms && t.terms.length) {
+          const cards = [...sec.querySelectorAll('.term-card')];
+          cards.forEach((card, i) => {
+            if (i >= t.terms.length) return;
+            const titleEl = card.querySelector('.t');
+            const defEl   = card.querySelector('.d');
+            if (titleEl) {
+              cacheOrig(titleEl, 'enOrig');
+              titleEl.textContent = lang === 'ne' ? t.terms[i].title : titleEl.dataset.enOrig;
+            }
+            if (defEl) {
+              cacheOrig(defEl, 'enOrig');
+              defEl.textContent = lang === 'ne' ? t.terms[i].def : defEl.dataset.enOrig;
+            }
+            // also update the data-term and data-def used by pop-up tooltips
+            if (lang === 'ne') {
+              if (!card.dataset.enTerm) card.dataset.enTerm = card.dataset.term;
+              if (!card.dataset.enDef)  card.dataset.enDef  = card.dataset.def;
+              card.dataset.term = t.terms[i].title;
+              card.dataset.def  = t.terms[i].def;
+            } else {
+              if (card.dataset.enTerm) card.dataset.term = card.dataset.enTerm;
+              if (card.dataset.enDef)  card.dataset.def  = card.dataset.enDef;
+            }
+          });
+        }
+
+        // about-study sub-heading
+        if (t.aboutStudyTitle) {
+          const asH = sec.querySelector('.about-study-title, h3');
+          if (asH) {
+            cacheOrig(asH, 'enOrig');
+            asH.textContent = lang === 'ne' ? t.aboutStudyTitle : asH.dataset.enOrig;
+          }
+        }
+
+        // h3 subheadings (e.g. in chapters)
+        if (t.subheadings && t.subheadings.length) {
+          const h3s = [...sec.querySelectorAll('h3')];
+          h3s.forEach((h3, i) => {
+            if (i >= t.subheadings.length) return;
+            cacheOrig(h3, 'enOrig');
+            h3.textContent = lang === 'ne' ? t.subheadings[i] : h3.dataset.enOrig;
+          });
+        }
+
+        // Accordion boxes (e.g. details.acc in chapter sections like Box 6 and Box 7)
+        if (t.boxes && t.boxes.length) {
+          const accs = [...sec.querySelectorAll('details.acc')];
+          accs.forEach((acc, i) => {
+            if (i >= t.boxes.length) return;
+            const bData = t.boxes[i];
+            if (!bData) return;
+
+            // Box summary / title
+            if (bData.summary) {
+              const summ = acc.querySelector('summary');
+              if (summ) {
+                cacheOrig(summ, 'enOrig');
+                summ.textContent = lang === 'ne' ? bData.summary : summ.dataset.enOrig;
+              }
+            }
+
+            // Box lead / intro paragraph
+            if (bData.lead) {
+              const bLead = acc.querySelector('.acc-body > p');
+              if (bLead) {
+                cacheOrig(bLead, 'enOrig');
+                bLead.textContent = lang === 'ne' ? bData.lead : bLead.dataset.enOrig;
+              }
+            }
+
+            // Box list items
+            if (bData.items && bData.items.length) {
+              const lis = [...acc.querySelectorAll('.acc-body li')];
+              lis.forEach((li, liIdx) => {
+                if (liIdx >= bData.items.length) return;
+                cacheOrig(li, 'enOrig');
+                li.textContent = lang === 'ne' ? bData.items[liIdx] : li.dataset.enOrig;
+              });
+            }
+
+            // Box paragraphs (for multi-paragraph boxes like Box 7)
+            if (bData.paras && bData.paras.length) {
+              const bParas = [...acc.querySelectorAll('.acc-body > p')];
+              bParas.forEach((bp, pIdx) => {
+                if (pIdx >= bData.paras.length) return;
+                cacheOrig(bp, 'enOrig');
+                bp.textContent = lang === 'ne' ? bData.paras[pIdx] : bp.dataset.enOrig;
+              });
+            }
+          });
+        }
+
+        // image alt attribute
+        if (t.imageAlt) {
+          const img = sec.querySelector('figure img, img');
+          if (img) {
+            cacheOrig(img, 'enAltOrig');
+            img.alt = lang === 'ne' ? t.imageAlt : img.dataset.enAltOrig;
+          }
+        }
+      }
+
+      function applyLangToDynamicContent(lang){
+        const tr = window.NE_TRANSLATIONS;
+        if (!tr) return;
+        Object.keys(tr).forEach(id => {
+          if (id === 'footer') return; // handled separately
+          patchSection(id, tr[id], lang);
+        });
+        // Footer about paragraph
+        if (tr.footer) {
+          const footerP = document.querySelector('footer p:first-of-type');
+          if (footerP) {
+            cacheOrig(footerP, 'enOrig');
+            footerP.textContent = lang === 'ne' ? tr.footer.about : footerP.dataset.enOrig;
+          }
+        }
+      }
+
+      /* ── 3. Button click handler ─────────────────────────── */
+      btn.addEventListener('click', () => {
+        currentLang = currentLang === 'en' ? 'ne' : 'en';
+        const isNe = currentLang === 'ne';
+
+        // Update button appearance
+        btn.textContent  = isNe ? 'English' : 'नेपाली';
+        btn.title        = isNe ? 'Switch to English' : 'Switch to Nepali';
+        btn.setAttribute('aria-label',   isNe ? 'Switch to English' : 'Switch to Nepali');
+        btn.setAttribute('aria-pressed', String(isNe));
+        btn.classList.toggle('lang-active', isNe);
+
+        // Apply the language
+        applyLangToStaticEls(currentLang);
+        applyLangToDynamicContent(currentLang);
+      });
+
+    })();
+
   })();
 })();
