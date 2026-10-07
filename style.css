@@ -281,14 +281,11 @@ details.sub[open]>summary::after{transform:rotate(180deg);}
 
 footer{background:var(--teal-dark);color:var(--text-light-muted);text-align:center;padding:40px 24px;font-size:.85rem;}
 footer strong{color:#fff;}
-<<<<<<< HEAD
 /* Footer: always wrap inside the page width (prevents the text from running past the edges) */
 footer{width:100%;max-width:100vw;box-sizing:border-box;overflow-wrap:anywhere;}
 footer p{white-space:normal;max-width:min(72ch,100%);margin-left:auto;margin-right:auto;}
 /* on desktop the fixed contents panel (264px) overlays the left edge, so keep footer text clear of it */
 @media(min-width:900px){footer{padding-left:288px;}}
-=======
->>>>>>> 5d8a49659786347f2e0f07e48e56fb2146a1a898
 .refs{font-size:.82rem;color:var(--text-secondary);line-height:1.7;}
 .refs p{margin-bottom:8px;}
 hr.div{border:none;border-top:1px solid var(--border-subtle);margin:36px 0;}

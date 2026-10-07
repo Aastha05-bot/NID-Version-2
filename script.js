@@ -465,7 +465,6 @@
         }
       }
 
-<<<<<<< HEAD
 
       /* ── 2b. Report body: every translatable element, matched by order ──
          ne.js holds one Nepali string per element (null = leave English).
@@ -519,8 +518,6 @@
         });
       }
 
-=======
->>>>>>> 5d8a49659786347f2e0f07e48e56fb2146a1a898
       /* ── 3. Button click handler ─────────────────────────── */
       btn.addEventListener('click', () => {
         currentLang = currentLang === 'en' ? 'ne' : 'en';
@@ -536,11 +533,8 @@
         // Apply the language
         applyLangToStaticEls(currentLang);
         applyLangToDynamicContent(currentLang);
-<<<<<<< HEAD
         applyUnits(currentLang);
         applyMini(currentLang);
-=======
->>>>>>> 5d8a49659786347f2e0f07e48e56fb2146a1a898
       });
 
     })();
