@@ -1,0 +1,373 @@
+### ch2: 124 units
+  0 [p]   <-- DRAFT (written by Claude, not in doc)
+    EN: Chapter II
+    NE: अध्याय २
+  1 [h2]
+    EN: The Birth of National Identity Card
+    NE: राष्ट्रिय परिचयपत्रको जन्म
+  2 [p]
+    EN: In 2010, the government proposed an “integrated” Information Technology Policy 2010 to guide the rapid growth of the digital secto
+    NE: डिजिटल क्षेत्रको तीव्र बृद्धिलाई मार्गदर्शन गर्न सरकारले २०६८ सालमा “एकीकृत” सूचना प्रविधि नीति प्रस्ताव गर्यो । सो नीतिको उद्देश्
+  3 [figcaption]
+    EN: National ID Card of nepal
+    NE: @@TODO@@
+  4 [p]
+    EN: Amid ongoing efforts to operate and regulate digital systems, Nepal has initiated biometric identification measures through its NI
+    NE: डिजिटल प्रणाली सञ्चालन र नियमन गर्ने निरन्तर प्रयासका बीच नेपालले राष्ट्रिय परिचयपत्र परियोजनामार्फत बायोमेट्रिक पहिचानका उपायहरू 
+  5 [p]
+    EN: Following the Cabinet approval of a biometric “smart” card, the government formed the National ID Management Centre(NIDMC) under t
+    NE: बायोमेट्रिक “स्मार्ट कार्ड” जारी गर्ने प्रस्तावलाई मन्त्रिपरिषद्ले स्वीकृति दिएपछि सरकारले २०६८ जेठमा गृह मन्त्रालयअन्तर्गत राष्ट्
+  6 [p]
+    EN: With support from the Asian Development Bank, the government announced the pilot of a biometric project worth USD 14 million in 20
+    NE: एसियाली विकास बैंकको सहयोगमा सरकारले २०७१ सालमा १४ मिलियन अमेरिकी डलरको लागनीमा बायोमेट्रिक परियोजना परीक्षण गर्ने घोषणा गर्यो । व
+  7 [p]
+    EN: Between 2012 and 2015, the project made no progress. It was eventually realized that a new law was needed to anchor the biometric 
+    NE: यस परियोजनाले २०६९ र २०७२ सालको बीचमा कुनै प्रगति गर्न सकेन । यसबीच बायोमेट्रिक पहिचान कार्यक्रम लागू गर्न अन्ततः नयाँ कानून चाहिन
+  8 [p]
+    EN: Building on the constitutional provision, in 2016, the government granted the contract to a French company, Morpho Safran (now Ide
+    NE: संवैधानिक प्रावधानको आधारमा, २०७५ सालमा सरकारले फ्रान्सेली कम्पनी मोर्फो सेफरान (अहिले फेरिएको नाम आडिमिया) लाई ठेक्का दियो । केवल
+  9 [p]
+    EN: Despite the progress made, the legal status of the project was still unclear. In 2019, the project encountered significant controv
+    NE: काममा केही प्रगति भए पनि, सो समयसम्म आयोजनाको कानुनी अवस्था स्पष्ट हुन सकेको थिएन । २०७६ सालमा परियोजनाले पहिलो पटक महत्वपूर्ण विव
+ 10 [p]
+    EN: Furthermore, Nepali Congress MP Dilendra Prasad Badu formally indicted the government for violating the Public Procurement Act. He
+    NE: नेपाली काँग्रेसका सांसद दिलेन्द्रप्रसाद बडुले सार्वजनिक खरिद ऐनमा २० लाख रुपैयाँभन्दा बढीको रकम सार्वजनिक बोलपत्रमार्फत जानुपर्ने 
+ 11 [p]
+    EN: The Nepali Congress MPs criticized the government’s actions. Despite Article 15 of the Constitution, stating that “an Act” would b
+    NE: नेपाली कांग्रेसका सांसदहरूले सरकारको उक्त कार्यको आलोचना गरे । संविधानको धारा १५ मा बायोमेट्रिक आयोजना “व्यवस्थापन र कार्यान्वयन” 
+ 12 [summary]
+    EN: Box 2: NID Card: Information from the Department of National ID and Civil Registration (DoNIDCR) website
+    NE: बक्सा २: राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभागको वेबसाइटबाट राष्ट्रिय परिचयपत्र कार्डको बारेमा (https://donidcr.gov.np/pages/intr
+ 13 [p]   <-- DRAFT (written by Claude, not in doc)
+    EN: Website: https://donidcr.gov.np/Home/NationalIDDetails
+    NE: वेबसाइट: https://donidcr.gov.np/Home/NationalIDDetails
+ 14 [p]
+    EN: National Identity Card of Nepal is a federal level Identity card with a unique identity number for each person that can be obtaine
+    NE: नेपालको राष्ट्रिय परिचयपत्र प्रत्येक व्यक्तिका लागि विशिष्ट पहिचान नम्बर भएको संघीय तहको परिचयपत्र हो, जहाँ नेपाली नागरिकहरूको परि
+ 15 [p]
+    EN: The data is collected by the Department of National ID and Civil Registration (DoNIDCR), under the jurisdiction of the Home Minist
+    NE: सो डेटा गृह मन्त्रालय अन्तर्गतको राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभागद्वारा सङ्कलन गरिन्छ ।
+ 16 [p]
+    EN: The contract to process and deliver the cards was signed in 2018 with IDEMIA.
+    NE: राष्ट्रिय परिचयपत्रको प्रशोधन र वितरणसम्बन्धी काम गर्नका लागि आइडिमिया (IDEMIA) सँग २०७५ सालमा सम्झौता गरिएको थियो ।
+ 17 [h4]
+    EN: Features
+    NE: विशेषताहरू
+ 18 [li]
+    EN: Unique Identification Number (UIN): Every individual is assigned a unique number for life.
+    NE: विशिष्ट पहिचान नम्बरः प्रत्येक व्यक्तिलाई जीवनभरका लागि छुट्टै विशिष्ट नम्बर प्रदान गरिन्छ ।
+ 19 [li]
+    EN: Biometric Information: Includes fingerprints, facial recognition, and iris scans.
+    NE: बायोमेट्रिक जानकारीः यसमा औँठाछाप, अनुहार पहिचान, र आँखाको आइरिस स्क्यानजस्ता सूचनाहरू समावेश हुन्छन् ।
+ 20 [li]
+    EN: Demographic Details: Stores personal details like name, date of birth, gender, address, and citizenship information.
+    NE: जनसांख्यिकीय विवरणः यसमा नाम-थर, जन्म मिति, लिङ्ग, ठेगाना र नागरिकतासम्बन्धी विवरणजस्ता व्यक्तिगत सूचनाहरू राखिन्छ ।
+ 21 [p]
+    EN: Upon full implementation, this card is to replace the current “Nepalese Citizenship” and it will be used for National Identity, pe
+    NE: पूर्ण कार्यान्वयन भएपछि, यो परिचयपत्रले हाल प्रयोगमा रहेको नेपाली नागरिकताको उपयोग प्रचलित कानून अनुसार मात्र हुने र यसको विशिष्ट 
+ 22 [p]
+    EN: This card will not replace other documents like Passport, Driver License.
+    NE: यो परिचयपत्रले राहदानी, सवारी चालक अनुममतिपत्र जस्ता अन्य कागजातहरूलाई भने प्रतिस्थापन गर्ने छैन ।
+ 23 [p]
+    EN: The project began in the fiscal year 2075/76 [2018/19 AD], with initial distributions in districts like Panchthar and to governmen
+    NE: सुरूमा पाँचथरलगायतका जिल्लामा तथा सरकारी कर्मचारीहरूलाई राष्ट्रिय परिचयपत्र वितरण गरिएको थियो । यो परियोजना आर्थिक वर्ष २०७५/७६ मा
+ 24 [h4]
+    EN: Enrollment Process
+    NE: दर्ता प्रक्रिया
+ 25 [p]
+    EN: To apply for the National ID Card, individuals must be at least 16 years old and provide the following documents:
+    NE: राष्ट्रिय परिचयपत्रका लागि आवेदन दिन, व्यक्तिको उमेर कम्तीमा १६ वर्ष पुगेको हुनुपर्छ र निम्नलिखित कागजातहरू पेस गर्नुपर्छः
+ 26 [li]
+    EN: Original citizenship card
+    NE: नागरिकताको सक्कल प्रमाणपत्र
+ 27 [li]
+    EN: Migration certificate (if applicable)
+    NE: बसाइँसराइको प्रमाणपत्र (लागू हुने भएमा)
+ 28 [li]
+    EN: Marriage certificate (if spouse's name is not on the citizenship card)
+    NE: विवाह दर्ता प्रमाणपत्र (नागरिकतामा पति वा पत्नीको नाम नभएको भएमा)
+ 29 [li]
+    EN: Passport (if available)
+    NE: राहदानी (उपलब्ध भएमा)
+ 30 [h4]
+    EN: Legal Framework
+    NE: कानूनी ढाँचा
+ 31 [p]
+    EN: To systematically advance the National Identity Card program, strategies like the “National Identity Card Management Strategic Pla
+    NE: राष्ट्रिय परिचयपत्र कार्यक्रमलाई व्यवस्थित रूपमा अगाडि बढाउन, राष्ट्रिय परिचयपत्र व्यवस्थापन रणनीतिक योजना २०७५ र राष्ट्रिय परिचयप
+ 32 [h4]
+    EN: Slogan
+    NE: नारा
+ 33 [p]
+    EN: Technology-friendly, well-governed, and robust service delivery is Nepal’s pride; the multi-purpose National ID is our identity.
+    NE: प्रविधिमैत्री, सुशासनयुक्त र बलियो सेवा प्रवाह नेपालको शान, बहुउद्देश्यीय राष्ट्रिय परिचयपत्र हाम्रो पहिचान ।
+ 34 [h4]
+    EN: Mission
+    NE: उद्देश्य
+ 35 [p]
+    EN: To promote quality public service, peace, security, and good governance through the National ID and Civil Registration Management 
+    NE: राष्ट्रिय परिचयपत्र तथा पञ्जीकरण व्यवस्थापन सूचना प्रणालीमार्फत गुणस्तरीय सार्वजनिक सेवा, शान्ति, सुरक्षा र सुशासनको प्रवर्द्धन गर
+ 36 [h4]
+    EN: Values
+    NE: परिकल्पना/मूल्यमान्यता
+ 37 [p]
+    EN: Supporting Nepal’s Prosperous Nepal, Happy Nepali campaign through technology-based identity and registration systems.
+    NE: प्रविधिमा आधारित पहिचान तथा पञ्जीकरण प्रणालीमार्फत “समृद्ध नेपाल, सुखी नेपाली” अभियानलाई सहयोग गर्ने ।
+ 38 [summary]
+    EN: Box 3: NID Card: Stated Goals and Promised Benefits
+    NE: बक्सा ३: राष्ट्रिय परिचयपत्रः घोषित लक्ष्य र वाचा गरिएका लाभहरू
+ 39 [p]
+    EN: Based on information from the Department of National ID and Civil Registration (DoNIDCR) and public statements by government repre
+    NE: राष्ट्रि परिचयपत्र तथा पञ्जीकरण विभागबाट प्राप्त जानकारी तथा सरकारी प्रतिनिधिहरूका सार्वजनिक अभिव्यक्तिका आधारमा, राष्ट्रिय परिचयत
+ 40 [p]
+    EN: The NID is intended to streamline government services, improve administrative coordination, and reduce identity-related fraud. It 
+    NE: राष्ट्रिय परिचयपत्रमार्फत सरकारी सेवाहरूलाई एकीकृत, सरलीकृत र व्यवस्थित गर्ने, प्रशासनिक समन्वय सुदृढ बनाउने र पहिचानसम्बन्धी ठगी 
+ 41 [h4]
+    EN: Stated Benefits of the NID
+    NE: राष्ट्रिय परिचयपत्रका उल्लिखित फाइदाहरू
+ 42 [li]
+    EN: Administrative Modernization and Efficiency: With NID, the government aims to modernize public administration by integrating ident
+    NE: प्रशासनिक आधुनिकीकरण र कार्यकुशलताः राष्ट्रिय परिचयपत्रमार्फत सरकारी प्रणालीहरूमा रहेका पहिचानसम्बन्धी डेटालाई एकीकृत गरेर सार्वजन
+ 43 [li]
+    EN: Digital Governance and Service Delivery: The NID is expected to streamline the delivery of government services by providing a unif
+    NE: डिजिटल शासन र सेवाप्रवाहः राष्ट्रिय परिचयपत्रले एकीकृत पहिचान प्रमाणीकरण संयन्त्र प्रदान गरेर सरकारी सेवाहरू प्रवाह गर्न सहज र व्य
+ 44 [li]
+    EN: National Security and Fraud Prevention: The NID is framed as a measure to improve internal security by creating a reliable, tamper
+    NE: राष्ट्रिय सुरक्षा र ठगी नियन्त्रणः राष्ट्रिय परिचयपत्रलाई भरपर्दो र बिगार्न नसकिने पहिचान प्रणाली निर्माण गरेर आन्तरिक सुरक्षा सुद
+ 45 [li]
+    EN: Elections and Voter Registration: By integrating biometric verification into electoral rolls, the system is expected to reduce dup
+    NE: निर्वाचन र मतदाता नामावली दर्ताः मतदाता नामावलीमा बायोमेट्रिक प्रमाणीकरणलाई एकीकृत गरेमा त्यस प्रणालीले दोहोरो दर्ता हुन नदिने, नि
+ 46 [li]
+    EN: Support for Digital Economy and Economic Development: The NID is positioned as a foundational tool for promoting Nepal’s digital e
+    NE: डिजिटल अर्थतन्त्र र आर्थिक विकासमा सहयोगः राष्ट्रिय परिचयपत्रलाई नेपालको डिजिटल अर्थतन्त्र प्रवर्द्धन गर्ने आधारभूत पूर्वाधारको रू
+ 47 [li]
+    EN: Economic and Digital Inclusion: The NID is also presented as a pathway toward inclusive economic participation. The integration of
+    NE: आर्थिक तथा डिजिटल समावेशीकरणः राष्ट्रिय परिचयपत्रलाई समावेशी आर्थिक सहभागितातर्फ अघि बढ्ने बाटोको रूपमा पनि प्रस्तुत गरिएको छ । सब
+ 48 [summary]
+    EN: Box 4: Proposed Multipurpose Uses of the NID Card
+    NE: बक्सा ४: राष्ट्रिय परिचयपत्रको प्रस्तावित बहुउद्देश्यीय प्रयोगहरू
+ 49 [p]
+    EN: Nepal’s NID Card is being positioned as a comprehensive, secure identification system intended to streamline governance by replaci
+    NE: नेपालको राष्ट्रिय परिचयपत्रलाई विभिन्न परिचय खुलाउने कागजातहरूको सट्टामा प्रयोग गर्न सकिने, शासन व्यवस्था सहज बनाउन मिल्ने र नागरि
+ 50 [p]
+    EN: Below are the key proposed multipurpose uses of the National ID card:
+    NE: राष्ट्रिय परिचयपत्रका प्रस्तावित प्रमुख बहुउद्देश्यीय प्रयोगहरूः
+ 51 [p]
+    EN: Identity Verification and Authentication: The NID card includes biometric features such as fingerprints and iris scans, as well as
+    NE: पहिचान प्रमाणीकरण र पुष्टिः राष्ट्रिय परिचयपत्रमा औँठाछाप र आँखाको आइरिस स्क्यान र क्यूआर कोडजस्ता जैविक तथा डिजिटल पहिचानसम्बन्धी
+ 52 [p]
+    EN: Civil Registration and Vital Events: The NID system is expected to interface with civil registration databases to track life event
+    NE: नागरिक दर्ता एवं व्यक्तिगत घटनाहरूको पञ्जीकरणः राष्ट्रिय परिचयपत्र प्रणालीलाई नागरिक दर्तासम्बन्धी तथ्यांक प्रणालीसँग जोडेर जन्म, 
+ 53 [p]
+    EN: Linking Other Official Documents: The NID number is envisioned to function as a unified identity reference for issuing and renewin
+    NE: अन्य आधिकारिक कागजातहरूको संयोजनः राष्ट्रिय परिचयपत्र नम्बरलाई एउटै साझा पहिचान नम्बरका रूपमा प्रयोग गरी राहदानी, सवारी चालक अनुमत
+ 54 [p]
+    EN: Voter Identification and Electoral Roll Management: The Election Commission plans to integrate the NID database with the national 
+    NE: मतदाता पहिचान तथा मतदाता नामावली व्यवस्थापनः निर्वाचन आयोगले निर्वाचनको समयमा मतदाताको पहिचानलाई थप व्यवस्थित र विश्वासनीय बनाउन र
+ 55 [p]
+    EN: Property and Asset Transactions: The NID is proposed as a mandatory document for the registration, transfer, and verification of a
+    NE: सम्पत्तिसम्बन्धी कारोबारः जग्गा स्वामित्व, सवारी साधन दर्ता र नामसारीजस्ता सम्पत्तिहरूको दर्ता हस्तान्तरण र प्रमाणीकरणका लागि राष्
+ 56 [p]
+    EN: Access to Social Security and Welfare Programs: The NID will be used to verify eligibility for and deliver services such as elderl
+    NE: सामाजिक सुरक्षा तथा कल्याणकारी कार्यक्रमहरूमा पहुँचः जेष्ठ नागरिक भत्ता, अपाङ्गता भत्ता, एकल महिलाका लागि सहयता तथा पेन्सनजस्ता सा
+ 57 [p]
+    EN: Banking and Digital Financial Transactions: Following a directive from Nepal Rastra Bank, the NID number is now required for openi
+    NE: बैंकिङ तथा डिजिटल वित्तीय कारोबारः नेपाल राष्ट्र बैंकको निर्देशनअनुसार, नयाँ बैंक खाता खोल्न राष्ट्रिय परिचयपत्र नम्बर अनिवार्य गर
+ 58 [p]
+    EN: Taxation and Revenue Tracking: The NID is expected to be linked with tax records, potentially replacing or integrating with PAN nu
+    NE: कर तथा राजस्वसम्बन्धी अभिलेख/ट्र्याकिङः राष्ट्रिय परिचयपत्रलाई करसम्बन्धी अभिलेखहरूसँग जोडेर स्थायी लेखा नाम्बरलाई प्रतिस्थापन गर्
+ 59 [p]
+    EN: Health and Medical Record Integration: There are ongoing discussions about using the NID to link individuals’ health and medical r
+    NE: स्वास्थ्य तथा चिकित्सासम्बन्धी अभिलेख एकीकृत गर्ने कार्यः सार्वजनिक स्वास्थ्य सेवाहरूमा सजिलै पहुँच पुर्यायाउन व्यक्तिहरूको स्वास्
+ 60 [p]
+    EN: Border Management and National Security: The NID system will be integrated with immigration, border surveillance, and internal sec
+    NE: सीमा व्यवस्थापन तथा राष्ट्रिय सुरक्षाः राष्ट्रिय परिचयपत्र प्रणालीलाई अध्यागमन, सीमा निगरानी र आन्तरिक सुरक्षासम्बन्धी प्रणालीसँग 
+ 61 [summary]
+    EN: Box 5: Timeline: Development and Implementation of Nepal’s NID System
+    NE: बक्सा ५: नेपालको राष्ट्रिय परिचयपत्र प्रणालीको विकास र कार्यान्वयनको समयरेखा
+ 62 [div]
+    EN: July 2009
+    NE: असार २०६६
+ 63 [div]
+    EN: Concept introduced
+    NE: @@TODO@@
+ 64 [div]
+    EN: The concept of the NID is introduced in the government’s policy and budget speech, aiming to use it for elections and social secur
+    NE: निर्वाचन र सामाजिक सुरक्षा सेवा वितरणका लागि प्रयोग गर्ने उद्देश्यले सरकारी नीति तथा बजेट भाषणमा राष्ट्रिय परिचयपत्रको अवधारणा प्र
+ 65 [div]
+    EN: April 2010
+    NE: वैशाख २०६७
+ 66 [div]
+    EN: Voter-ID pilot
+    NE: @@TODO@@
+ 67 [div]
+    EN: A pilot project is launched to issue voter ID cards with photographs and fingerprints, laying the groundwork for biometric identif
+    NE: बायोमेट्रिक पहिचानको आधार तयार पार्दै, तस्बिर र औँठाछापसहितको मतदाता परिचयपत्र जारी गर्न एक परीक्षण परियोजना सुरु गरियो ।
+ 68 [div]
+    EN: November 2018
+    NE: कात्तिक २०७५
+ 69 [div]
+    EN: Enrollment begins
+    NE: @@TODO@@
+ 70 [div]
+    EN: Enrollment of NID cards begins in Panchthar district and Singha Durbar as part of the first-phase rollout. The first card was hand
+    NE: पहिलो चरणमा पाँचथर जिल्ला र सिंहदरबार काठमाडौंमा राष्ट्रिय परिचयपत्र कार्डहरूको विवरण दर्ता सुरु गरियो । पाँचथर जिल्लाकी १०१ वर्षी
+ 71 [div]
+    EN: January 2019
+    NE: माघ २०७५
+ 72 [div]
+    EN: Bill tabled
+    NE: @@TODO@@
+ 73 [div]
+    EN: The National Identity Card and Civil Registration Bill is tabled in Parliament.
+    NE: राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विधेयक संसदमा प्रस्तुत गरियो ।
+ 74 [div]
+    EN: August 2019
+    NE: साउन २०७६
+ 75 [div]
+    EN: Bill passed
+    NE: @@TODO@@
+ 76 [div]
+    EN: Parliament passes the National Identity Card and Civil Registration Bill, formally establishing the legal basis for NID.
+    NE: संसद्ले राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विधेयक पारित गर्यो, जसले राष्ट्रिय परिचयपत्रका लागि औपचारिक कानुनी आधार स्थापित गर्यो ।
+ 77 [div]
+    EN: November 2021
+    NE: कात्तिक २०७८
+ 78 [div]
+    EN: E-passports & SIM linkage begins
+    NE: @@TODO@@
+ 79 [div]
+    EN: E-passports linked to NID numbers are issued; the Nepal Telecommunications Authority (NTA) begins drafting terms of reference to l
+    NE: राष्ट्रिय परिचयपत्र नम्बरसँग जोडिएका इ–राहदानीहरू जारी गर्न सुरू गरियो । नेपाल दूरसञ्चार प्राधिकरणले सिमकार्ड दर्तालाई राष्ट्रिय प
+ 80 [div]
+    EN: April 2022
+    NE: वैशाख २०७९
+ 81 [div]
+    EN: Mandatory-use plans announced
+    NE: @@TODO@@
+ 82 [div]
+    EN: The government announces that NID will become mandatory for various licenses and official documents in the future.
+    NE: भविष्यमा विभिन्न इजाजतपत्र र आधिकारिक कागजातहरूका लागि राष्ट्रिय परिचयपत्र अनिवार्य हुनेछ भनी सरकारले घोषणा गर्यो ।
+ 83 [div]
+    EN: March 2024
+    NE: चैत २०८०
+ 84 [div]
+    EN: Birth certificates carry NINs
+    NE: @@TODO@@
+ 85 [div]
+    EN: Birth certificates begin including national identity numbers for children under 16.
+    NE: १६ वर्ष मुनिका बालबालिकाहरूको जन्मदर्ता प्रमाणपत्रमा राष्ट्रिय परिचयपत्र नम्बर समावेश गर्न थालियो ।
+ 86 [div]
+    EN: June 2024
+    NE: जेठ २०८१
+ 87 [div]
+    EN: Mandatory for essential services
+    NE: @@TODO@@
+ 88 [div]
+    EN: Government announces NID to be mandatory for accessing services such as banking, SIM registration, social security, civil service 
+    NE: सरकारले बैंकिङ सेवा, सिमकार्ड दर्ता, सामाजिक सुरक्षा, लोक सेवा परीक्षा, जग्गा तथा सवारी साधनसम्बन्धी कारोबारजस्ता सेवाहरू प्राप्त 
+ 89 [div]
+    EN: July 2024
+    NE: असार २०८१
+ 90 [div]
+    EN: Supreme Court suspends mandate
+    NE: @@TODO@@
+ 91 [div]
+    EN: Nepal’s Supreme Court issues an interim order suspending the enforcement of mandatory NID for public services, following criticism
+    NE: राष्ट्रिय परिचयपत्रको कमजोर वितरण र पहुँचसम्बन्धी समस्याहरूको आलोचनापछि, नेपालको सर्वोच्च अदालतले सार्वजनिक सेवा प्राप्त गर्नका ला
+ 92 [div]
+    EN: January 9, 2025
+    NE: २५ पुस २०८१
+ 93 [div]
+    EN: Bank-account directive
+    NE: @@TODO@@
+ 94 [div]
+    EN: Nepal Rastra Bank enforces a directive requiring the NID number for opening new bank accounts.
+    NE: नेपाल राष्ट्र बैंकले नयाँ बैंक खाता खोल्न राष्ट्रिय परिचयपत्र नम्बर अनिवार्य गर्ने निर्देशन कार्यान्वयनमा ल्यायो ।
+ 95 [div]
+    EN: January 19, 2025
+    NE: ६ माघ २०८१
+ 96 [div]
+    EN: Interim order nullified
+    NE: @@TODO@@
+ 97 [div]
+    EN: The Supreme Court nullifies its interim order, clearing the way for the government to resume enforcing NID requirements across mul
+    NE: सर्वोच्च अदालतले आफ्नो अन्तरिम आदेश खारेज गर्यो । त्यससँगै सरकारले विभिन्न सेवामा राष्ट्रिय परिचयपत्र अनिवार्य गर्ने व्यवस्था पुनः
+ 98 [div]
+    EN: March 2025
+    NE: माघ २०८१
+ 99 [div]
+    EN: Exemptions announced
+    NE: @@TODO@@
+100 [div]
+    EN: Home Minister Ramesh Lekhak declares in Parliament that NID mandate exemptions will apply to specific groups: children, people una
+    NE: गृहमन्त्री रमेश लेखकले संसद्मा राष्ट्रिय परिचयपत्र अनिवार्य हुनुपर्ने प्रावधानबाट केही समूहलाई छुट दिने घोषणा गरे । जसमा बालबालिका
+101 [div]
+    EN: April 2025
+    NE: वैशाख २०८२
+102 [div]
+    EN: Cards printed and received
+    NE: @@TODO@@
+103 [div]   <-- REVIEW: length ratio 1.88
+    EN: 6.23 million NID cards printed, 2.31 million cards received by applicants
+    NE: ६२ लाख ३० हजार राष्ट्रिय परिचयपत्र कार्ड छापिएको र तीमध्ये २३ लाख १० हजार कार्ड आवेदकहरूले प्राप्त गरेको जानकारी सार्वजनिक गरियो ।
+104 [div]
+    EN: July 2025
+    NE: असार २०८२
+105 [div]
+    EN: Social-security mandate reversed
+    NE: @@TODO@@
+106 [div]
+    EN: The government reverses its earlier decision to require NID for receiving social security allowances, acknowledging significant di
+    NE: वितरणमा देखिएका ठूला त्रुटिहरूलाई स्वीकार गर्दै, सरकारले सामाजिक सुरक्षा भत्ता प्राप्त गर्न राष्ट्रिय परिचयपत्र अनिवार्य गर्ने आफ्
+107 [div]
+    EN: July 2025
+    NE: साउन २०८२
+108 [div]
+    EN: Nagarik app integration
+    NE: @@TODO@@
+109 [div]
+    EN: The Nagarik app is integrated with the National ID system, allowing citizens to access their ID details directly through the app.
+    NE: नागरिक एपलाई राष्ट्रिय परिचयपत्र प्रणालीसँग एकीकृत गरियो, जसले नागरिकहरूलाई एपमार्फत सीधै आफ्नो परिचयपत्रको विवरण पहुँच गर्न अनुमत
+110 [p]
+    EN: Drawing on global trends in digital identification, the Act was introduced with two primary objectives: to enhance security and tr
+    NE: विश्वव्यापी प्रवृत्तिहरूमा टेक्दै, दुई प्राथमिक उद्देश्यका साथ ऐन पेश गरिएको थियोः सुरक्षा र पारदर्शिता अभिवृद्धि गर्न, र नागरिकहर
+111 [p]
+    EN: While implementing this law, the Act states that “personal privacy will be assured”.27 Yet it simultaneously claims that the biome
+    NE: यो कानून लागू गर्दा, ऐनले “व्यक्तिगत गोपनीयता सुनिश्चित गरिने” उल्लेख छ । यद्यपि, यसले एकैसाथ यो पनि दावी गर्दछ कि राष्ट्रिय परिचय
+112 [p]
+    EN: The implementation gap is evident, as the NID was launched without sufficient technological assessment and administrative prepared
+    NE: पर्याप्त प्राविधिक मूल्यांकन र प्रशासनिक तयारी बिना नै राष्ट्रिय परिचयपत्र सुरु गरिएको हुनाले कार्यान्वयनमा प्रशस्त कमजोरी स्पष्टै
+113 [h3]
+    EN: A New Security Space
+    NE: नयाँ सुरक्षा वृत्त
+114 [p]
+    EN: National ID is a foundational element of an emerging surveillance culture. Unlike in India, where Aadhaar enrollment remains volun
+    NE: उदीयमान निगरानीउन्मुख संस्कृतिको लागि राष्ट्रिय परिचयपत्र एक आधारभूत प्रणाली हो । भारतमा विभिन्न सामाजिक क्षेत्रका योजनाका लाभग्रा
+115 [p]
+    EN: Historical controversies over Nepali citizenship have left millions of residents without citizenship certificates. Recent disputes
+    NE: नेपाली नागरिकतालाई लिएर कायम रहेको ऐतिहासिक विवादले लाखौं बासिन्दालाई नागरिकता प्रमाणपत्रविहीन बनाएको छ । पछिल्लो अवधिमा नागरिकताम
+116 [p]
+    EN: As seen in the Aadhaar case in India, existing social divisions tend to be reinforced by such identity systems.31 In Nepal, a simi
+    NE: भारतको आधार कार्डको उदाहरणले देखाएझैँ, यस्ता परिचयपत्र प्रणालीले समाजमा पहिल्यैदेखि विद्यमान सामाजिक विभाजनलाई झन् गहिरो बनाउन वा 
+117 [p]
+    EN: In the long run, as reliance on biometric identification grows, service delivery may begin to normalize suspicion, with the NID po
+    NE: राष्ट्रिय परिचयपत्र निगरानीको एक प्रमुख उपकरण बन्न थालेसँगै, दीर्घकालमा बायोमेट्रिक पहिचानमाथिको निर्भरता बढ्दै जान सक्छ र सेवाप्र
+118 [p]
+    EN: The government’s claims of transparency in relation to the project are being questioned. The national digitization project has onc
+    NE: सरकारले डिजिटाइजेसन परियोजना पारदर्शी रहेको दाबी गरिरहे पनि यसबारे धेरै प्रश्न उठेको छ । राष्ट्रिय डिजिटलाइजेशन परियोजनाले प्रतिस्
+119 [p]
+    EN: Idemia touts itself as a “renowned expert in civil identity solutions” globally, managing “the entire identity value chain from ci
+    NE: आडिमियाले विश्वव्यापी रूपमै आफूलाई “नागरिक पहिचान समाधानमा गर्ने प्रख्यात विशेषज्ञ” कम्पनीको रूपमा प्रस्तुत गर्दछ, जसले “डिजिटल पर
+120 [p]
+    EN: Collaborating with a private company for biometric identification poses challenges to safeguarding citizens’ fundamental freedoms 
+    NE: बायोमेट्रिक पहिचानको लागि निजी कम्पनीसँग सहकार्य गर्दा नागरिकका मौलिक स्वतन्त्रता र गोपनीयता रक्षा गर्ने सवालमा चुनौतीहरू आउँन सक्
+121 [p]
+    EN: “This may be intended to make the national system more organized. The National ID Card seems to simplify various processes, making
+    NE: “हुन त राष्ट्रिय प्रणालीलाई थप व्यवस्थित बनाउन राष्ट्रिय परिचयपत्र ल्याइएको हुन सक्छ । परिचयपत्रले विभिन्न प्रक्रियाहरूलाई अझ सरल 
+122 [div]
+    EN: Many people have echoed the sentiment succinctly articulated by a man in Khotang
+    NE: खोटाङका एक व्यक्तिले संक्षिप्त रूपमा व्यक्त गरेको भावनासँग धेरैको भनाई मिल्दोजुल्दो छः
+123 [h4]
+    EN: NID Timeline at a Glance
+    NE: @@TODO@@

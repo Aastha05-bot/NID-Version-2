@@ -1,0 +1,133 @@
+### ch5: 44 units
+  0 [p]   <-- DRAFT (written by Claude, not in doc)
+    EN: Chapter V
+    NE: अध्याय ५
+  1 [h2]
+    EN: Right to Privacy
+    NE: गोपनीयताको अधिकार
+  2 [p]
+    EN: The right to privacy is protected under Article 28 of the Constitution of Nepal, which states that privacy is an inviolable right,
+    NE: गोपनीयताको हक नेपालको संविधानको धारा २८ अन्तर्गत संरक्षित छ । उक्त धाराले कानुनद्वाराबाहेक व्यक्तिको निवास, सम्पत्ति, कागजात, डेटा
+  3 [p]
+    EN: The government claims that Nepal’s NID system adopts “global standard” security protocols. It uses AES-256 encryption and stores p
+    NE: सरकारले नेपालको राष्ट्रिय परिचयपत्र प्रणालीले “वैश्विक स्तरको” सुरक्षा प्रोटोकलहरूको मापदण्ड अपनाएको दाबी गरेको छ । यसले एइएस–२५६ 
+  4 [p]
+    EN: While government representatives have offered assurances about privacy, the sensitivity and gravity of the issue are not fully int
+    NE: सरकारी प्रतिनिधिहरूले गोपनीयताबारे आश्वासन दिएका भए पनि त्यसको संवेदनशीलता र गाम्भीर्यतालाई पूर्ण रूपमा आत्मसात गरिएको छैन । राष्ट
+  5 [p]
+    EN: Our field research found gaps in technical capacity, training and literacy, transparency, and institutional clarity.
+    NE: यस स्थलगत अनुसन्धानले प्राविधिक क्षमता, तालिम र साक्षरता, पारदर्शिता र संस्थागत स्पष्टतामा धेरै कमी रहेको फेला पार्यो ।
+  6 [summary]
+    EN: Box 11: Vulnerability of Unique Identifiers and Biometric Data
+    NE: बक्सा ११: विशिष्ट पहिचान नम्बर र बायोमेट्रिक डेटाको जोखिम
+  7 [p]
+    EN: Leaking unique Identifier numbers can make us vulnerable to a range of risks, including identity theft, where someone impersonates
+    NE: विशिष्ट पहिचान नम्बरहरू चुहावट भएमा पहिचान चोरीलगायत विभिन्न जोखिम निम्तिन सक्छ । उदाहरणका लागि, कसैले तपाईंको पहिचानको नक्कल गरी 
+  8 [p]
+    EN: The risks are significantly amplified when biometric data, such as fingerprints, iris scans, or facial recognition, is linked to y
+    NE: औँठाछाप, आँखाको आइरिस स्क्यान वा अनुहार पहिचान जस्ता बायोमेट्रिक डेटा तपाईंको विशिष्ट पहिचानसँग जोडिएपछि यस्ता जोखिमहरू गुणात्मक र
+  9 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: These privacy breaches may stem from external actors such as hackers and private data brokers. But they can also originate from in
+    NE: गोपनीयताका यी उल्लङ्घनहरू ह्याकरहरू र निजी डेटा दलालहरूजस्ता बाह्य पक्षहरूबाट सिर्जना हुन सक्छन् । तर तिनीहरू सरकारी निकाय, कानुन 
+ 10 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: When biometric authentication is embedded into essential services such as banking, welfare, or healthcare, the inability to update
+    NE: जब बायोमेट्रिक प्रमाणीकरणलाई बैंकिङ, कल्याणकारी सेवा वा स्वास्थ्य सेवा जस्ता अत्यावश्यक सेवाहरूमा एकीकृत गरिन्छ, तब जोखिममा परेको 
+ 11 [p]
+    EN: In our pilot research, we had raised the concerns that the use of a centralized database and the integration of NID with both publ
+    NE: हाम्रो प्रारम्भिक अनुसन्धानमा पनि हामीले केन्द्रीय डेटाबेसको प्रयोग र सार्वजनिक तथा निजी दुवै सेवाहरूसँग राष्ट्रिय परिचयपत्रको एकी
+ 12 [p]
+    EN: Understanding biometrics and its potential to infringe on citizens' personal data is essential for elected officials and policymak
+    NE: बायोमेट्रिक र यसमार्फत नागरिकका व्यक्तिगत डेटा उल्लङ्घन हुने सम्भावनाबारे निर्वाचित प्रतिनिधिहरू र नीति निर्माताहरूले बुझ्न अतिआवश
+ 13 [h3]
+    EN: Data Governance
+    NE: डेटा गभर्नेन्स
+ 14 [p]
+    EN: The NID system was launched in a context where no comprehensive data protection laws existed. Given the scale and sensitivity of t
+    NE: राष्ट्रिय परिचयपत्र प्रणाली त्यस्तो बेलामा सुरु गरियो जतिबेला कुनै पनि विस्तृत डेटा संरक्षण कानुनहरू अस्तित्वमा थिएनन् । यसमा समाव
+ 15 [p]
+    EN: However, no such comprehensive data governance framework has been made publicly available. While the government has shared limited
+    NE: यद्यपि, त्यस्तो कुनै पनि विस्तृत डेटा शासन संरचना सार्वजनिक रूपमा उपलब्ध गराइएको छैन । सरकारले डेटा व्यवस्थापन र सुरक्षा प्रोटोकलह
+ 16 [p]
+    EN: Currently, the NID data is managed through the Integrated Data Management System (IDMS). Data is stored at the Government Data Cen
+    NE: हाल, राष्ट्रिय परिचयपत्रको डेटा एकीकृत डेटा व्यवस्थापन प्रणालीमार्फत व्यवस्थापन गरिन्छ । डेटालाई सिंहदरबारस्थित सरकारी डेटा सेन्टर
+ 17 [p]
+    EN: However, serious concerns remain regarding the government’s capacity to manage such a large volume of sensitive personal data. Nep
+    NE: तैपनि, यति ठूलो परिमाणको संवेदनशील व्यक्तिगत डेटा व्यवस्थापन गर्ने सरकारको क्षमताबारे गम्भीर चासोहरू कायम छन् । नेपालको डिजिटल पूर
+ 18 [h3]
+    EN: Data Sovereignty
+    NE: डेटा सार्वभौमता
+ 19 [p]
+    EN: Private companies like Idemia, the French multinational providing technical support for Nepal’s NID infrastructure, remain largely
+    NE: नेपालको राष्ट्रिय परिचयपत्र पूर्वाधारका लागि प्राविधिक सहयोग उपलब्ध गराउने फ्रान्सेली बहुराष्ट्रिय कम्पनी आइडिमिया (Idemia) जस्ता 
+ 20 [p]
+    EN: This is the same private company that is providing all technical support to Nepal’s biometric data. If a private company can colle
+    NE: यो त्यही निजी कम्पनी हो, जसले नेपालको बायोमेट्रिक डेटाका लागि सबै प्राविधिक सहयोग उपलब्ध गराउँदै आएको छ । यदि कुनै निजी कम्पनीले स
+ 21 [p]
+    EN: A joint-secretary at the Ministry of Communication and Information Technology, who was earlier involved in the making of the Natio
+    NE: पहिला राष्ट्रिय परिचयपत्र विधेयक निर्माणमा संलग्न सञ्चार तथा सूचना प्रविधि मन्त्रालयका एक सहसचिवले यो स्वीकारे कि सरकार भौतिक सुरक
+ 22 [h3]
+    EN: Gaps in Communication, Training and Education
+    NE: सञ्चार, तालिम र शिक्षामा खाडल
+ 23 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: Beyond technical capacity, there is a troubling lack of awareness and sensitivity regarding data privacy and protection. Governmen
+    NE: प्राविधिक क्षमताभन्दा पर डेटा गोपनीयता र सुरक्षारेखाहरूबारे चेतना र संवेदनशीलताको कमी चिन्ताजनक रहेको छ । सरकारी अधिकारीहरूले डेटा
+ 24 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: During fieldwork, it was found that even staff at DoNIDCR are not clear on how privacy and security controls are built into the NI
+    NE: स्थालगत अध्ययनका क्रममा राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभागका कर्मचारीहरू समेत परिचयपत्रको प्रविधि र यसका प्रक्रियाहरूमा गोपनीय
+ 25 [p]
+    EN: Internal consultations and communications within DoNIDCR, especially regarding the design and implementation of outreach and educa
+    NE: राष्ट्रिय परिचयपत्र तथा पञ्जीकरण विभाग भित्रका आन्तरिक परामर्श र सूचनाहरू, खासगरी परिचयपत्रको प्रारम्भिक दर्ता प्रक्रियामा यसका डि
+ 26 [p]
+    EN: During fieldwork, it was found that, due to a lack of systematic outreach and information campaigns, users had a very low level of
+    NE: स्थलगत अध्ययनको क्रममा थाहा भयो, व्यवस्थित पहुँच र सूचना अभियानहरूको अभावका कारण प्रयोगकर्ताहरूमा डिजिटल साक्षरताको स्तर निकै कमजो
+ 27 [p]
+    EN: In the past, and even now, it was common to give one’s Citizenship Certificate to family members, trusted friends, or neighbors wh
+    NE: विगतमा, र अझै पनि, आवश्यकता पर्दा आफ्नो नागरिकता प्रमाणपत्र परिवारका सदस्य, विश्वासिला साथी वा छिमेकीहरूलाई दिनु सामान्य चलन हो । 
+ 28 [p]
+    EN: During a consultative meeting with civil society representatives, a member expressed concern about safety and privacy, noting that
+    NE: नागरिक समाजका प्रतिनिधिहरूसँगको परामर्श बैठकको क्रममा एक सदस्यले सुरक्षा र गोपनीयताबारे चिन्ता व्यक्त गर्दै सरकारले डेटा गोपनीयता,
+ 29 [p]
+    EN: The absence of communication and education efforts to engage the public on privacy and data protection issues raises questions abo
+    NE: गोपनीयता र डेटा सुरक्षाका सवालहरूमा जनतालाई संलग्न गराउन सूचना र चेतना जगाउने प्रयासहरूको अभाव सर्वथा छ । यसले राष्ट्रिय परिचयपत्र
+ 30 [h3]
+    EN: Vulnerable citizens and marginalized communities
+    NE: कमजोर नागरिक र सीमान्तकृत समुदाय
+ 31 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: Those already vulnerable and marginalized are likely to face more threats to their privacy and fundamental freedom. Inhabitants of
+    NE: पहिल्यैदेखि नै जोखिममा रहेका र सीमान्तकृत व्यक्तिहरूको गोपनीयता र मौलिक स्वतन्त्रतामाथि थप खतराहरू सिर्जना हुने सम्भावना बढी रहन्छ
+ 32 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: With the additional requirement for digital ID, migrants and vulnerable are once again forced to rely on private cyber cafes to fi
+    NE: डिजिटल परिचयपत्रको थप आवश्यकताले गर्दा आप्रवासी तथा जोखिममा रहेका व्यक्तिहरू दर्ता फाराम भर्न फेरि एकपटक निजी साइवर क्याफेहरूमा भर
+ 33 [p]
+    EN: These enormous security risks need to be immediately checked by providing free and secured enrollment services. However, the gover
+    NE: निःशुल्क र सुरक्षित दर्ता सेवाहरू उपलब्ध गराएर यी भयावह सुरक्षा जोखिमहरूलाई तुरुन्तै नियन्त्रण गर्नु जरूरी छ । यद्यपि, पर्याप्त तय
+ 34 [p]
+    EN: While districts like Sarlahi are recording several cases of cyber-crime, in smaller hill towns like Dikhtel in Khotang, instances 
+    NE: सर्लाही जस्ता जिल्लाहरूमा साइबर अपराधका धेरै घटनाहरू देखिन थालेका छन् । खोटाङको दिक्तेल जस्ता पहाडी साना सहर-बजारहरूमा साइबर अपराध
+ 35 [p]
+    EN: Queer communities have expressed significant privacy concerns regarding the NID system, highlighting the risks it poses to their s
+    NE: क्वयेर समुदायले राष्ट्रिय परिचयपत्र प्रणालीको सन्दर्भमा महत्वपूर्ण गोपनीयताका चासोहरू व्यक्त गरेका छन् । जसले उनीहरूको गरिमा र सुर
+ 36 [h3]
+    EN: Security vs. Privacy
+    NE: सुरक्षा र गोपनीयताको मुकाबला
+ 37 [p]
+    EN: One of the stated purposes of the NID is to support national security, including through enhanced tracking and surveillance. While
+    NE: राष्ट्रिय परिचयपत्रको उल्लिखित उद्देश्यहरूमध्ये एक परिष्कृत ट्र्याकिङ र निगरानीमार्फत राष्ट्रिय सुरक्षालाई सघाउनु हो । राष्ट्रिय स
+ 38 [p]
+    EN: The legal framework in Nepal recognizes the right to privacy but leaves room for exceptions “in accordance with the law,” especial
+    NE: नेपालको कानुनी ढाँचाले गोपनीयताको हकलाई मान्यता दिए पनि आपतकालीन अवस्थामा वा राष्ट्रिय सुरक्षाको सन्दर्भमा “कानुन बमोजिम” व्याख्या
+ 39 [p]
+    EN: For example, voters’ privacy was jeopardized by the Election Commission citing “public disclosure” and “transparency”.76 Body & Da
+    NE: उदाहरणका लागि, निर्वाचन आयोगले “सार्वजनिक खुलासा” र “पारदर्शिता” भन्दै मतदाताहरूको गोपनीयतामाथि आँच पुर्याएको थियो । बडी एण्ड डाटा
+ 40 [p]
+    EN: Given that our laws are patriarchal and contain loopholes, the use of biometric information authorized by law and justified by sec
+    NE: हाम्रा कानुनहरू पितृसत्तात्मक छन् र तिनमा विभिन्न कानूनी छिद्रहरू पनि रहेका छन् । यो वास्तविकतालाई मध्यनजर गर्दा, सुरक्षा वा विकास
+ 41 [p]
+    EN: There is the urgent need for a comprehensive privacy and data protection law. As technology becomes more powerful, pervasive, and 
+    NE: हामीलाई गोपनीयता तथा डेटा संरक्षणसम्बन्धी एक विस्तृत कानुनको तत्काल आवश्यकता छ । प्रविधि थप शक्तिशाली, व्यापक र अनाधिकृत रूपमा विक
+ 42 [p]
+    EN: The promise of biometric technology lies in delivering better security and more efficient services. As this technology becomes mor
+    NE: बायोमेट्रिक प्रविधिको मुख्य वाचा उत्कृष्ट सुरक्षा र थप प्रभावकारी सेवाहरू प्रदान गर्नुमा निहित छ । यो प्रविधि आर्थिक रूपमा व्यावहा
+ 43 [p]
+    EN: As Nepali society becomes more entangled in digital connectivity, it is imperative that we also learn new ways to respect the priv
+    NE: नेपाली समाज डिजिटल कनेक्टिभिटीमा थप आबद्ध हुँदै जाँदा हामीले आफ्ना सह-नागरिकका गोपनीयता र गरिमाको सम्मान गर्ने नयाँ तरिका सिक्न उत

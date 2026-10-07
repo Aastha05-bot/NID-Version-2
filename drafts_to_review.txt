@@ -1,0 +1,90 @@
+Nepali written by Claude (not in the .doc) - please have a Nepali speaker review.
+
+[ch2 #3]
+  EN: National ID Card of nepal
+  NE: नेपालको राष्ट्रिय परिचयपत्र
+[ch2 #63]
+  EN: Concept introduced
+  NE: अवधारणाको सुरुवात
+[ch2 #66]
+  EN: Voter-ID pilot
+  NE: मतदाता परिचयपत्रको परीक्षण
+[ch2 #69]
+  EN: Enrollment begins
+  NE: दर्ता सुरु
+[ch2 #72]
+  EN: Bill tabled
+  NE: विधेयक प्रस्तुत
+[ch2 #75]
+  EN: Bill passed
+  NE: विधेयक पारित
+[ch2 #78]
+  EN: E-passports & SIM linkage begins
+  NE: इ–राहदानी र सिम कार्ड जडान सुरु
+[ch2 #81]
+  EN: Mandatory-use plans announced
+  NE: अनिवार्य प्रयोगको योजना घोषणा
+[ch2 #84]
+  EN: Birth certificates carry NINs
+  NE: जन्मदर्ता प्रमाणपत्रमा राष्ट्रिय परिचय नम्बर
+[ch2 #87]
+  EN: Mandatory for essential services
+  NE: अत्यावश्यक सेवाका लागि अनिवार्य
+[ch2 #90]
+  EN: Supreme Court suspends mandate
+  NE: सर्वोच्च अदालतद्वारा अनिवार्यता निलम्बन
+[ch2 #93]
+  EN: Bank-account directive
+  NE: बैंक खातासम्बन्धी निर्देशन
+[ch2 #96]
+  EN: Interim order nullified
+  NE: अन्तरिम आदेश खारेज
+[ch2 #99]
+  EN: Exemptions announced
+  NE: छुटको घोषणा
+[ch2 #102]
+  EN: Cards printed and received
+  NE: कार्ड छपाइ र प्राप्ति
+[ch2 #105]
+  EN: Social-security mandate reversed
+  NE: सामाजिक सुरक्षासम्बन्धी अनिवार्यता फिर्ता
+[ch2 #108]
+  EN: Nagarik app integration
+  NE: नागरिक एप एकीकरण
+[ch2 #123]
+  EN: NID Timeline at a Glance
+  NE: राष्ट्रिय परिचयपत्रको समयरेखा: एक नजरमा
+[exec-summary #5]
+  EN: Addressed in Chapter II, which traces the policy origins and intended trajectory of the initiative.
+  NE: अध्याय २ मा सम्बोधन गरिएको छ, जसले यस पहलको नीतिगत उत्पत्ति र अपेक्षित दिशाको खोजी गर्छ ।
+[exec-summary #7]
+  EN: Addressed in Chapter III, which examines the evolving political ambitions of the Nepali state against the material hurdles of execution.
+  NE: अध्याय ३ मा सम्बोधन गरिएको छ, जसले नेपाली राज्यका विकसित हुँदै गएका राजनीतिक महत्वाकांक्षालाई कार्यान्वयनका भौतिक अवरोधहरूसँग तुलना गर्दै परीक्षण गर्छ ।
+[exec-summary #9]
+  EN: Addressed in Chapters IV and V, which evaluate the governance conditions shaping citizens’ access, the politics of rights and entitlement, civil society engagement, and the fault lines between inclusion and surveillance.
+  NE: अध्याय ४ र ५ मा सम्बोधन गरिएको छ, जसले नागरिकको पहुँचलाई आकार दिने शासकीय अवस्था, अधिकार र हकदावीको राजनीति, नागरिक समाजको संलग्नता तथा समावेशीकरण र निगरानीबीचका विभाजन रेखाहरूको मूल्याङ्कन गर्छ ।
+[references #2]
+  EN: Numbered footnotes throughout this report (like this) can be clicked to reveal the short citation or note. The full reference list follows.
+  NE: यस प्रतिवेदनमा रहेका क्रमसंख्या दिइएका पादटिप्पणीहरूमा (जस्तै यो) क्लिक गरेर संक्षिप्त सन्दर्भ वा टिप्पणी हेर्न सकिन्छ । पूर्ण सन्दर्भ सूची तल दिइएको छ ।
+
+[mini timeline]
+  EN: Jul 2009 Concept enters government policy speech
+  NE: असार २०६६ - राष्ट्रिय परिचयपत्रको अवधारणा सरकारी नीतिमा समावेश
+  EN: Nov 2018 First-phase enrollment begins, Panchthar
+  NE: कात्तिक २०७५ - पाँचथरबाट पहिलो चरणको दर्ता सुरु
+  EN: Aug 2019 NID & Civil Registration Act passed
+  NE: साउन २०७६ - राष्ट्रिय परिचयपत्र तथा पञ्जीकरण ऐन पारित
+  EN: Nov 2021 E-passports linked to NID numbers
+  NE: कात्तिक २०७८ - राष्ट्रिय परिचयपत्र नम्बरसँग जोडिएका इ–राहदानी
+  EN: Jun 2024 Made mandatory for essential services
+  NE: जेठ २०८१ - अत्यावश्यक सेवाका लागि अनिवार्य
+  EN: Jul 2024 Supreme Court suspends the mandate
+  NE: असार २०८१ - सर्वोच्च अदालतद्वारा अनिवार्यता निलम्बित
+  EN: Jan 2025 Supreme Court nullifies its interim order
+  NE: माघ २०८१ - सर्वोच्च अदालतले अन्तरिम आदेश खारेज गर्यो
+  EN: Jul 2025 Social-security requirement reversed
+  NE: असार २०८२ - सामाजिक सुरक्षासम्बन्धी अनिवार्यता फिर्ता
+  EN: Mid-2026 20M+ enrolled; 7.7M cards sent to DAOs
+  NE: २०८३ असार - २ करोडभन्दा बढी दर्ता; ७७ लाख कार्ड जिल्ला प्रशासन कार्यालयमा पठाइए
+
+[static page text drafted by Claude: contents panel, cover labels, call-to-action] see STATIC in patch_static.py

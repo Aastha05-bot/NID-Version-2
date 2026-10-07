@@ -1,0 +1,58 @@
+### exec-summary: 19 units
+  0 [p]
+    EN: Executive Summary
+    NE: कार्यकारी सारांश
+  1 [h2]   <-- DRAFT (written by Claude, not in doc)
+    EN: Executive Summary & Core Research Questions
+    NE: कार्यकारी सारांश र मुख्य अनुसन्धान प्रश्नहरू
+  2 [p]
+    EN: In November 2018, the Government of Nepal launched its National ID (NID) system, an ambitious digital identity framework aimed at 
+    NE: नेपाल सरकारले आफ्ना नागरिकहरूलाई डिजिटल पहिचान प्रदान गर्न २०७५ असोजदेखि राष्ट्रिय परिचयपत्र लागू गर्यो । सरकारले महत्वाकांक्षी भए
+  3 [p]
+    EN: This study evaluates the socio-political implications and ground-level realities of the National ID along three primary vectors: p
+    NE: यस प्रतिवेदनमा राष्ट्रिय परिचयपत्रको वास्तविक प्रभावहरू र सामाजिक असरहरूको अध्ययन गरिएको छ । यसले तीनवटा मुख्य पक्षहरूको बोध गर्छ 
+  4 [summary]
+    EN: Question 01 — Why is the Nepali state prioritizing digital identification?
+    NE: प्रश्न ०१ — नेपाली राज्यले डिजिटल पहिचानलाई किन प्राथमिकता दिइरहेको छ ?
+  5 [p]
+    EN: Addressed in Chapter II, which traces the policy origins and intended trajectory of the initiative.
+    NE: @@TODO@@
+  6 [summary]
+    EN: Question 02 — How is the government executing its digital identification scheme?
+    NE: प्रश्न ०२ — सरकारले डिजिटल पहिचानको योजना कसरी सञ्चालन गरिरहेको छ ?
+  7 [p]
+    EN: Addressed in Chapter III, which examines the evolving political ambitions of the Nepali state against the material hurdles of exec
+    NE: @@TODO@@
+  8 [summary]
+    EN: Question 03 — How do citizens experience and navigate the government’s ambitious biometric initiative?
+    NE: प्रश्न ०३ — सरकारको महत्वाकांक्षी बायोमेट्रिक कार्यक्रमहरुलाई नागरिकहरूले कसरी अनुभव गर्छन् र सामना गर्छन् ?
+  9 [p]
+    EN: Addressed in Chapters IV and V, which evaluate the governance conditions shaping citizens’ access, the politics of rights and enti
+    NE: @@TODO@@
+ 10 [p]
+    EN: Because operational adoption of the NID remains stalled by a lack of card-reading machines across government offices, this analysi
+    NE: राष्ट्रिय परिचयपत्र अझै व्यापक रूपमा डिजिटल प्रयोगमा आएको छैन । हालसम्म सरकारी कार्यालय र आवश्यक सार्वजनिक स्थानहरूमा राष्ट्रिय पर
+ 11 [p]
+    EN: Mandatory enrollment in the National ID system grew rapidly from 16 million in late 2024 to over 20 million by mid-2026. Card dist
+    NE: राष्ट्रिय परिचयपत्र लिने अनिवार्य प्रावधान लागू गरिएपश्चात २०८१ मंसिरसम्ममा १ करोड ६० लाखले दर्ता गराएका थिए भने २०८३ असारसम्म आइप
+ 12 [p]
+    EN: Nepal’s push for the NID is anchored in the expectation that digital solutions will enhance governance efficiency, cross-sectoral 
+    NE: नेपाल सरकारले अपेक्षा गरे अनुसार राष्ट्रिय परिचयपत्रले “डिजिटल समाधान” को प्रयोगमार्फत सारकारी सेवाहरूमा नागरिकको पहुँच सुधार्ने र
+ 13 [p]
+    EN: A critical gap persists between official policy commitments and their tangible delivery on the ground. Unfolding through an opaque
+    NE: यस अध्ययन अनुसार सरकारको महत्वाकांक्षा र वाचाहरूबीच गम्भीर खाडल रहेको निष्कर्ष छ । राष्ट्रिय परिचयपत्रको कार्यान्वयन र वितरणमा अधि
+ 14 [p]
+    EN: In the absence of a systematic effort to retrain and reorient civil servants toward digital transformation, conventional administr
+    NE: सरकारले डिजिटल रूपान्तरण अघि बढाइरहँदा त्यसलाई बल पुर्याउने प्रशासनिक संशाधनलाई व्यवस्थित रूपमा तयार गरेको थिएन । नतिजा परम्परागत 
+ 15 [p]
+    EN: Public feedback underscores that mandatory NID registration represents a superfluous administrative layer that forces citizens to 
+    NE: नागरिकहरूले जोड दिए अनुसार राष्ट्रिय परिचयपत्र प्रणालीमा अनिवार्य दर्ता केवल एक अतिरिक्त बोझ हो । यसले थप अर्को परिचयपत्र राख्न उन
+ 16 [p]
+    EN: The NID rollout revealed a distinct lack of federal-local coordination, with the central government bypassing substantive intergov
+    NE: परिचयपत्रको लागि दर्ता गर्ने क्रममा संघीय सरकार सीमित अन्तरसरकारी परामर्श र समन्वयमा संलग्न भएको पाइयो । जिल्ला प्रशासन कार्यालयको
+ 17 [p]
+    EN: Although the NID card is now embedded within routine administrative procedures, Nepal’s shift toward “smart” governance suffers fr
+    NE: हाल, राष्ट्रिय परिचयपत्रलाई विद्यमान प्रशासनिक प्रक्रियाहरूमा एकीकृत गर्ने क्रम तीव्र छ । तर, “स्मार्ट” शासनतर्फको संक्रमणमा व्यवस
+ 18 [p]
+    EN: As digital rights and literacy remain relatively new areas of focus for civil society and private sector organizations, understand
+    NE: निजी क्षेत्र र नागरिक समाजका लागि डिजिटल साक्षरता र डिजिटल अधिकारहरू अझै पनि अपेक्षाकृत नयाँ क्षेत्र हुन् । यी सबै राष्ट्रिय परिचय

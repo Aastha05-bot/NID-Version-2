@@ -1,0 +1,184 @@
+### ch4: 61 units
+  0 [p]   <-- DRAFT (written by Claude, not in doc)
+    EN: Chapter IV
+    NE: अध्याय ४
+  1 [h2]
+    EN: Disputes and Differences
+    NE: विवाद र मतभेदहरू
+  2 [h3]
+    EN: The National ID
+    NE: राष्ट्रिय परिचयपत्र
+  3 [p]
+    EN: Nepal’s National ID system is based on the World Bank's “Digital Identification for Development” (ID4D) model. This system is desi
+    NE: नेपालको राष्ट्रिय परिचयपत्र प्रणाली विश्व बैंकको “आइडेन्टिफिकेशन फर डेभलपमेन्ट” (आइडिफोडि) मोडलमा आधारित छ । यो प्रणाली सार्वभौमिक
+  4 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: During the enrollment process for the National ID, if someone does not have a clear citizenship record, other documents such as a 
+    NE: राष्ट्रिय परिचयपत्र नामांकनको प्रक्रियामा कसैको नागरिकताको अभिलेख स्पष्ट नभएको अवस्थामा व्यक्तिगत विवरणको प्रमाणिकरणका लागि अन्य क
+  5 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: According to the National ID and Civil Registration Act and its regulations, no government official, whether at the national or lo
+    NE: राष्ट्रिय परिचयपत्र तथा नागरिकता दर्तासम्बन्धी ऐन र नियमावलीअनुसार राष्ट्रिय वा स्थानीय तहमा कार्यरत कुनै पनि सरकारी अधिकारीले नाग
+  6 [p]
+    EN: The Digital ID system is closely linked to citizenship laws and is limited to nationals, so it will not address legislative gaps r
+    NE: डिजिटल परिचयपत्र प्रणाली नागरिकता कानूनसँग घनिष्ट रूपमा जोडिएको छ र यो नेपाली नागरिकहरूमा मात्र सीमित छ । त्यसैले, नागरिकताको हैसि
+  7 [p]
+    EN: The NID is designed to be a functional identification card with its main objective being the digital identification of all citizen
+    NE: राष्ट्रिय परिचयपत्रलाई मुख्यतः सबै नागरिकहरूको डिजिटल पहिचान स्थापित गर्ने उद्देश्यसहित प्रयोगमा ल्याउने परिचयपत्रका रूपमा परिकल्प
+  8 [p]
+    EN: Given Nepal’s high rate of labor migration, immigration served as a strategic opportunity to implement mandatory National ID enrol
+    NE: नेपालमा श्रम आप्रवासनको उच्च दरलाई ध्यानमा राख्दै, आप्रवासनसम्बन्धी प्रक्रियालाई राष्ट्रिय परिचयपत्र दर्ता अनिवार्य बनाउने रणनीतिक
+  9 [summary]
+    EN: Box 8: Making NID mandatory: Resistance and Reversals
+    NE: बक्सा ८: राष्ट्रिपरिचयपत्र अनिवार्य बनाउने प्रयासः प्रतिरोध र निर्णयमा परिवर्तन
+ 10 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: The NID card, envisioned as a central tool for identification and service delivery, was intended to be accessible to all residents
+    NE: डिजिटल पहिचान प्रमाणित गर्ने र सार्वजनिक सेवा प्रवाह सहज बनाउने केन्द्रीय साधनको रूपमा परिकल्पना गरिएको राष्ट्रिय परिचयपत्र कार्ड 
+ 11 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: A notice published by the Ministry of Home Affairs in the Nepal Gazette (Nepal Rajpatra) in June 2024 made it compulsory to presen
+    NE: गृह मन्त्रालयद्वारा २०८१ जेठमा नेपाल राजपत्रमा प्रकाशित सूचनाअनुसार बैंक खाता खोल्न, सिमकार्ड दर्ता गर्न, सामाजिक सुरक्षा भत्ता लि
+ 12 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: The government faced criticism for enforcing the NID requirement for social security benefits without ensuring proper distribution
+    NE: राष्ट्रिय परिचयपत्रको पर्याप्त वितरण सुनिश्चित नगरी सामाजिक सुरक्षा भत्ताका लागि अनिवार्य गरेकोमा सरकारको व्यापक आलोचना भयो । धेरै
+ 13 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: In response, Nepal’s Supreme Court issued an interim order in July 2024, suspending the mandatory NID requirement for accessing pu
+    NE: यसको प्रतिक्रियास्वरूप सर्वोच्च अदालतले सन् २०८१ असार मा सार्वजनिक सेवा प्राप्त गर्न राष्ट्रिय परिचयपत्र अनिवार्य गर्ने व्यवस्था त
+ 14 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: However, in early January 2025, the Nepal Rastra Bank (NRB) issued a directive requiring the NID number to open new bank accounts 
+    NE: तथापि सन् २०८१ पुसमा नेपाल राष्ट्र बैंकले माघ १ देखि लागू हुने गरी नयाँ बैंक खाता खोल्न राष्ट्रिय परिचयपत्र नम्बर अनिवार्य गर्ने न
+ 15 [p]
+    EN: Later that month, the Supreme Court nullified its previous interim orders, officially allowing the government to move forward with
+    NE: २०८१ माघ ६ गते सर्वोच्च अदालतले आफ्नो अघिल्लो अन्तरिम आदेश खारेज गर्यो, जसले सरकारलाई धेरै सेवाहरूमा राष्ट्रिय परिचयपत्रको अनिवार्
+ 16 [p]
+    EN: Despite this, the government walked back on one key provision: the requirement of the NID for receiving social security allowances
+    NE: यसको बावजुद, एउटा मुख्य प्रावधानमा सरकार पछि हट्योः सामाजिक सुरक्षा भत्ता प्राप्त गर्न राष्ट्रिय परिचयपत्र अनिवार्य गर्ने व्यवस्था
+ 17 [p]
+    EN: The government’s shifting stance and hasty implementation, without adequate planning or infrastructure, has drawn criticism for cr
+    NE: पर्याप्त योजना वा पूर्वाधार बिना सरकारको बदलिँदो अडान र हतारमा गरिएको कार्यान्वयनले अन्योल र कठिनाई सिर्जना गरेको भन्दै आलोचना झेल
+ 18 [h3]
+    EN: Pending Verification
+    NE: पेन्डिङ प्रमाणीकरण
+ 19 [p]
+    EN: During the NID enrollment process, many citizens faced a common issue of “pending verification”. Their data was unverified for rea
+    NE: राष्ट्रिय परिचयपत्र दर्ता प्रक्रियाका क्रममा धेरै नागरिकहरूले भोगेको साझा समस्या हो “पेन्डिङ प्रमाणीकरण” अर्थात प्रमाणीकरण हुन बाँ
+ 20 [p]
+    EN: The first pattern was related to longstanding administrative inconsistencies in the distribution of citizenship certification. It 
+    NE: पहिलो प्रवृत्ति, लामो समयदेखि नागरिकता प्रमाणपत्र वितरणमा निहित प्रशासनिक विसंगतिसँग सम्बन्धित थियो । विशेषगरी गरिब, कम साक्षर वा 
+ 21 [p]
+    EN: The second pattern emerged from human errors made while filling out forms, as well as from the process used by mobile stations to 
+    NE: दोस्रो प्रवृत्ति फाराम भर्ने क्रममा भएका मानवीय त्रुटिहरू र गाउँ-गाउँमा स्थापित घुम्ती दर्ता केन्द्रहरूले अफलाइन आवेदन फाराम व्यवस
+ 22 [h3]
+    EN: Lack of Accurate and Accessible Information
+    NE: विश्वनीय र पहुँचयोग्य सूचनाको अभाव
+ 23 [p]
+    EN: The NID initiative, intended to streamline citizen services and promote digital governance, has largely failed to effectively comm
+    NE: नागरिक सेवाहरू सुव्यवस्थित बनाउने र डिजिटल शासन प्रवर्द्धन गर्ने उद्देश्यले थालिएको राष्ट्रिय परिचयपत्र परियोजनाले आफ्नो उद्देश्य,
+ 24 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: The FGDs and interviews with citizens in Sarlahi indicated that most citizens were not properly informed by the authorities about 
+    NE: सर्लाहीका नागरिकहरूसँग गरिएको सामूहिक छलफलमा अधिकांश नागरिकहरूलाई सरकारी अधिकारीहरूले राष्ट्रिय परिचयपत्रको उद्देश्य र प्रयोगबारे 
+ 25 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: In Sarlahi, unlike in Khotang, some people believed that the National ID would be similar to India’s Aadhaar card and would offer 
+    NE: खोटाङमा भन्दा फरक, सर्लाहीमा, केही मानिसहरूले राष्ट्रिय परिचयपत्र भारतको आधार कार्ड जस्तै हुने र त्यसमार्फत विभिन्न सहुलियतहरू प्र
+ 26 [p]
+    EN: In all three FGDs conducted with women and marginalized individuals in Sarlahi, it was found that local leaders referenced Aadhaar
+    NE: सर्लाहीमा महिला र सीमान्तकृत व्यक्तिहरूसँग सञ्चालन गरिएका तीनवटै सामूहिक छलफलहरूमा स्थानीय नेताहरूले आधार कार्डको सन्दर्भ उल्लेख ग
+ 27 [p]
+    EN: Government officials at the central level have acknowledged that end-users are ill informed, largely due to limited deliberation a
+    NE: केन्द्रीय तहमा सरकारी अधिकारीहरूले समेत स्वीकारे कि प्रयोगकर्ताहरूमा पर्याप्त जानकारी छैन, किनकि सार्वजनिक छलफल सीमित भए र कार्यान
+ 28 [p]
+    EN: In both Sarlahi and Khotang, it was found that women were less informed about the NID compared to men. Many women enrolled simply 
+    NE: सर्लाही र खोटाङ दुवै ठाउँमा राष्ट्रिय परिचयपत्रबारे पुरुषको तुलनामा महिलाहरू कम जानकार रहेको पाइयो । यद्यपि, धेरै महिलाहरूले पनि द
+ 29 [p]
+    EN: Saying that the National ID is “mandatory for all” is misleading, especially for Nepali residents who can’t obtain citizenship cer
+    NE: राष्ट्रिय परिचयपत्र नेपाली “सबैका लागि अनिवार्य” भनिरहँदा यो भ्रामक पनि हुन सक्छ, विशेषगरी तिनका लागि जसले जन्म वा विवाहको आधारमा 
+ 30 [h3]
+    EN: Standardizing Bodies
+    NE: शरीरहरूको मानकीकरण
+ 31 [p]
+    EN: “The system has difficulty recording the fingerprints of individuals who work outdoors in the village, especially those in the con
+    NE: “गाउँमा बाहिरतिर काम गर्ने व्यक्ति, विशेष गरी निर्माण क्षेत्रका कामदारहरू जो सिमेन्ट र बालुवाको काम छन्, ती व्यक्तिहरूको औँठाछाप प
+ 32 [p]
+    EN: In Khotang, an officer at the DAO office reported this. He further mentioned that, due to the mandate to make the card enrollment 
+    NE: खोटाङ स्थित जिल्ला प्रशासन कार्यालयका एक अधिकारीले यो कुरा स्वीकारे । उनले थप उल्लेख गरे, कार्ड दर्तालाई अनिवार्य बनाएकोले जसको औँ
+ 33 [p]
+    EN: Many workers worry that as their fingerprints become rougher over time, biometric machines will continue to fail in verifying them
+    NE: धेरै कामदार/श्रमिकहरू समयसँगै आफ्ना औँठा छापहरू खस्रो हुँदै जाँदा बायोमेट्रिक मेसिनले आफ्नो पहिचान प्रमाणीकरण गर्न निरन्तर समस्या 
+ 34 [p]
+    EN: It has been observed that class and ethnic divisions are being reinforced during the implementation of biometric enrollment. Worke
+    NE: बायोमेट्रिक दिँदा प्रायः वर्गीय र जातीय खाडलहरूमा पुनः बल पुग्ने देखिन्छ । नियमित रूपमा बालुवा र फलाम जस्तो खस्रो सामग्री चलाउने व
+ 35 [p]
+    EN: Citizens who have not been officially identified due to a “pending” status, and those who have difficulty verifying their identity
+    NE: “पेन्डिङ” अवस्थामा रहेका कारण आधिकारिक रूपमा प्रमाणीकरण हुन नसकेका नागरिकहरू र स्थलगत रूपमा विशेषगरी औँठाछापमार्फत आफ्नो पहिचान प्
+ 36 [p]
+    EN: Respondents also reported experiencing ethnic discrimination linked to the use of biometric technology. In Khotang, for example, m
+    NE: नागरिकहरूले बायोमेट्रिक प्रविधिको प्रयोगसँग सम्बन्धित जातीय विभेदको अनुभव गरेको समेत बताएका छन् । उदाहरणका लागि, खोटाङमा सामान्यीक
+ 37 [p]
+    EN: An officer responsible for taking biometric records at the CDO office admitted that there are difficulties in capturing retinal sc
+    NE: जिल्ला प्रशासन कार्यालयमा बायोमेट्रिक विवरण संकलन गर्ने एक अधिकारीले “विविध शारीरिक विशेषता भएका स्थानीय नागरिक, विशेषगरी ज्येष्ठ 
+ 38 [p]
+    EN: During a FGD with persons with disabilities (PwDs), they highlighted numerous challenges arising from gaps in awareness, infrastru
+    NE: अपांगता भएका व्यक्तिहरूसँग गरिएको सामूहिक छलफलमा उनीहरूले चेतना, पूर्वाधार, प्रविधि र कार्यान्वयका कमजोरीहरूबाट सिर्जित थुप्रै चुन
+ 39 [p]
+    EN: There were instances of mistreatment and discrimination towards PwDs at enrollment stations and the DAO.67 Many applicants with ph
+    NE: दर्ता केन्द्रहरू र जिल्ला प्रशासन कार्यालयमा अपांगता भएका व्यक्तिहरूमाथि दुर्व्यवहार र भेदभाव गरिएका घटनाहरू पनि अध्ययनको क्रममा थ
+ 40 [summary]
+    EN: Box 9: Key concerns of the PwDs
+    NE: बक्सा ९: अपांगता भएका व्यक्तिहरुको प्रमुख सरोकार
+ 41 [li]
+    EN: Provide government officials with proper training and sensitization to better address the needs of PwDs, as there is a serious lac
+    NE: सरकारी कर्मचारीलाई उचित तालिम दिने र संवेदनशीलता अभिवृद्धि गराउने: निष्पक्ष र समतामूलक सेवाहरू प्रदान गर्ने सन्दर्भमा सरकारी कर्मच
+ 42 [li]
+    EN: Regularly organize special outreach camps or enrollment drives to make services more accessible to PwDs, as enrollment centers lac
+    NE: विशेष पहुँचयुक्त घुम्ती शिविर तथा विवरण दर्ता अभियान नियमित रूपमा सञ्चालन गर्ने: दर्ता केन्द्रहरूमा वैकल्पिक व्यवस्था र सञ्चार उपक
+ 43 [li]
+    EN: Ensure more grievance redressal options for PwDs when they encounter procedural barriers or face enrollment denials, in order to m
+    NE: गुनासो तथा उजुरी समाधानका थप व्यवस्था सुनिश्चित गर्ने: जब अपांगता भएका व्यक्तिहरूले प्रक्रियागत अवरोधहरूको सामना गर्छन् वा तिनको द
+ 44 [p]
+    EN: During a FGD with members of the queer community, concerns were raised about the NID card and its potential to exacerbate existing
+    NE: क्वयेर समूहका सदस्यहरूसँग गरिएको सामुहिक छलफलमा राष्ट्रिय परिचयपत्र र यसमा निहित सम्भावनाले विद्यमान असमानताहरूलाई थप बढाउन सक्ने 
+ 45 [p]
+    EN: Another major concern is the lack of information about how personal data, including sensitive details about gender identity, will 
+    NE: लैंगिक पहिचानसम्बन्धी संवेदनशील विवरणलगायत व्यक्तिगत डेटा कसरी सुरक्षित गरिनेछ भन्ने जानकारीको अभाव हुनु अर्को मुख्य सरोकारको विषय
+ 46 [p]
+    EN: Many in the community questioned the need for gender categorization on the National ID at all, suggesting a separate document that
+    NE: धेरै सहभागीहरूले राष्ट्रिय परिचयपत्रमा लैंगिक वर्गीकरणको आवश्यकता किन छ भन्नेबारेमा पनि प्रश्न उठाएका छन् । उनीहरूले लैंगिक पहिचान
+ 47 [p]
+    EN: Biometric tools being used today are not just meant to record or standardize people’s physical features, they can also inadvertent
+    NE: हाल प्रयोग भइरहेका बायोमेट्रिक उपकरणहरूले मानिसका शारीरिक विशेषताहरू रेकर्ड गर्ने वा मानकीकरण गर्ने मात्र होइन, जानअन्जानमा सामाजि
+ 48 [summary]
+    EN: Box 10: Key concerns of the queer community
+    NE: बक्सा १०: क्वयेर समूहका प्रमुख सरोकारहरू
+ 49 [li]
+    EN: Remove the gender category from the National ID Card, to allow individuals to access public services without disclosing their gend
+    NE: असुरक्षित परिस्थितिहरूमा आफ्नो लैङ्गिक पहिचान खुलाउन बाध्य नपारी नागरिकहरूलाई सार्वजनिक सेवाहरूमा पहुँच पुर्यायाउन राष्ट्रिय परिचय
+ 50 [li]
+    EN: Government staff should undergo training on etiquette and sensitivity when interacting with queer individuals. This training shoul
+    NE: क्वयेर व्यक्तिहरूसँग अन्तरक्रिया गर्न सरकारी कर्मचारीहरूले शिष्टाचार र संवेदनशीलतासम्बन्धी तालिम लिनुपर्छ । यो तालिम व्यक्तिगत प्र
+ 51 [li]
+    EN: It is important to involve a diverse range of queer individuals and organizations as key stakeholders in governmental discussions 
+    NE: सरकारी छलफल र राष्ट्रिय परिचयपत्र प्रणालीको मूल्याङ्कनमा मुख्य सरोकारवालाहरूको रूपमा विभिन्न किसिमका क्वयेर व्यक्ति र संस्थाहरूलाई
+ 52 [h3]
+    EN: Lack of Public Consultations
+    NE: सार्वजनिक परामर्शको अभाव
+ 53 [p]
+    EN: NID is one of Nepal’s largest digital projects, intended to improve efficiency and access to essential services such as public ide
+    NE: राष्ट्रिय परिचयपत्र नेपालका ठूला डिजिटल परियोजनाहरूमध्ये एक हो । सार्वजनिक पहिचान, सामाजिक सुरक्षा भत्ता, वैदेशिक रोजगारीका अवसरहर
+ 54 [p]
+    EN: However, in drafting this legislation, the government bypassed rigorous, transparent parliamentary debates and meaningful public c
+    NE: यद्यपि, कानुन तर्जुमा गर्ने क्रममा सरकारले अर्थपूर्ण र पारदर्शी संसदीय बहसहरू तथा सार्वजनिक परामर्शहरूलाई छल्न चाह्यो । समाजमा यस 
+ 55 [p]
+    EN: Our consultations with CSOs and CBOs in Sarlahi, Khotang and Kathmandu revealed that government agencies did not provide sufficien
+    NE: सर्लाही, खोटाङ र काठमाडौंस्थित गैरसरकारी र समुदायमा आधारित संस्थाहरूसँग हामीले गरेका परामर्शहरूले सरकारी निकायहरूले राष्ट्रिय परिच
+ 56 [p]
+    EN: Misinformation or the lack of proper information was reported in both Khotang and Sarlahi. Separate consultations with media pract
+    NE: खोटाङ र सर्लाही दुवै ठाउँमा गलत सूचना वा सही जानकारीको अभाव रहेको कुरा स्थलगत अध्ययनमा थाहा भयो । दुवै जिल्लाका सञ्चारकर्मी, नेपाल
+ 57 [p]
+    EN: In contrast to Sarlahi and Khotang, consultations with CSOs in Kathmandu, indicated that, depending on their engagement, orientati
+    NE: सर्लाही र खोटाङभन्दा फरक, काठमाडौंस्थित नागरिक समाजका प्रतिनिधिहरूसँग गरिएको परामर्शले संकेत गर्यो, मानिसहरूको संलग्नता, अभिमुखीकर
+ 58 [p]
+    EN: During the FGDs with people with disabilities (PwDs) and the queer community, they raised similar concerns. PwDs shared that they 
+    NE: अपांगता भएका व्यक्तिहरू र क्वयेर समूहसँग गरिएका सामूहिक छलफलहरूको क्रममा उनीहरूले पनि उस्तै किसिमका सरोकारहरू व्यक्त गरे । अपांगता
+ 59 [p]
+    EN: Many civil society organizations such as Digital Rights Nepal68 have expressed strong concerns about the government’s attempts to 
+    NE: डिजिटल राइट्स नेपालसहित नागरिक समाजका धेरै संस्थाहरूले व्यक्तिहरूलाई डिजिटल प्लेटफर्म र महत्वपूर्ण सार्वजनिक जानकारीमा पहुँच पुर्य
+ 60 [p]
+    EN: FGDs in Sarlahi and Khotang revealed that the lack of public consultations directly impacted citizens’ limited understanding of is
+    NE: सर्लाही र खोटाङमा गरिएका सामूहिक छलफलहरूबाट सार्वजनिक परामर्शको अभावमा यस विषयप्रति नागरिकहरूको बुझाइ सीमित भएकोले त्यसको प्रत्यक्

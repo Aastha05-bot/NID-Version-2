@@ -1,0 +1,145 @@
+### moving-forward: 48 units
+  0 [p]   <-- DRAFT (written by Claude, not in doc)
+    EN: Chapter VI
+    NE: अध्याय ६
+  1 [h2]
+    EN: Moving Forward
+    NE: अबको बाटो
+  2 [p]
+    EN: The focus of this report has been on the processes of designing the NID, its legislative measures, implementation practices, and c
+    NE: यो प्रतिवेदन राष्ट्रिय परिचयपत्रको निर्माण प्रक्रिया, यसका कानुनी व्यवस्था, कार्यान्वयन अभ्यासहरू र नागरिकका सरोकारहरूमा केन्द्रित
+  3 [p]
+    EN: The absence of a comprehensive data protection law and the reliance on centralized biometric databases raise pressing questions ab
+    NE: व्यापक तथ्यांक संरक्षणसम्बन्धी कानूनको अभाव र केन्द्रिकृत बायोमेट्रिक डेटाबेस प्रणालीमा निर्भर रहनुले सुरक्षा, जवाफदेहिता र मानवाध
+  4 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: Moving forward, the success of the NID system will depend on the government’s willingness to center rights, transparency, and mean
+    NE: अगामी दिनमा, राष्ट्रिय परिचयपत्र प्रणालीको सफलता अधिकार, पारदर्शिता र अर्थपूर्ण सहभागितालाई आफ्नो कार्यशैलीको केन्द्रमा राख्ने सरक
+  5 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: Building on the previous work and recommendations by Body & Data (see Box 12), the report proposes a range of recommendations, fro
+    NE: बडी एण्ड डाटाले गरेको अघिल्लो अध्ययन प्रतिवेदनमा (बक्स १२ हेर्नुहोस्) प्रस्तुत गरिएको सुझाबहरूलाई आधार बनाउँदै, यस प्रतिवेदनले सरक
+  6 [summary]
+    EN: Box 12: Recommendations from Digitization of Identity in Nepal: Efforts, Experiences, and Effects
+    NE: बक्सा १२: नेपालमा पहिचानको डिजिटाइजेसनः प्रयत्न, अनुभव र प्रभावसम्बन्धी अध्ययन सिफारिस
+  7 [p]
+    EN: Based on the 2021 pilot study on the NID, Digitization of Identity in Nepal: Efforts, Experiences, and Effects, Body & Data had ma
+    NE: २०७८ सालमा बडी एण्ड डाटाले नेपालमा पहिचानको डिजिटाइजेसनः प्रयत्न, अनुभव र प्रभाव शीर्षकमा राष्ट्रिय परिचयपत्रबारे गरेको परीक्षण अध
+  8 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: We emphasized that Nepal’s policymakers should acknowledge that mandatory national digital ID systems collecting excessive amounts
+    NE: हामीले नेपालका नीति निर्माताहरूले अनिवार्य रूपमा लागू गरिने राष्ट्रिय परिचयपत्र प्रणालीमा नागरिकबाट अत्यधिक मात्रामा व्यक्तिगत जनस
+  9 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: Along with strict governance standards, the government must adopt a strategic communication policy that credibly and completely in
+    NE: कडा सुशासन मापदण्डहरूसँगै, सरकारले गलत सूचना रोक्नको लागि कार्यक्रमका सबै पक्षहरूलाई विश्वसनीय र पूर्ण रूपमा सही जानकारी उपलब्ध गर
+ 10 [h4]
+    EN: Recommendations for researchers and civil society organizations
+    NE: अनुसन्धानकर्ता र नागरिक समाजका संस्थाहरूका लागि सुझाबः
+ 11 [li]
+    EN: Follow up with an in-depth, mixed-methods study
+    NE: विस्तृत मिश्रित–विधिमा आधारित गहिरो अध्ययन गर्ने ।
+ 12 [li]
+    EN: Collaborate with other civil society organizations working on digital rights
+    NE: डिजिटल अधिकारका क्षेत्रमा काम गर्ने नागरिक समाजका संस्थाहरूसँग पर्याप्त सहकार्य गर्ने ।
+ 13 [li]
+    EN: Collaborate with other CSOs working at the intersection of social justice and digital policies
+    NE: सामाजिक न्याय र डिजिटल नीतिहरूको अन्तरसम्बन्धमा काम गर्ने नागरिक समाजका संस्थाहरूसँग व्यापक सहकार्य गर्ने ।
+ 14 [li]
+    EN: Engage with government and private sector actors to inform about grassroots challenges
+    NE: भूइँतहमा देखिएका चुनौती र समस्याहरूबारे जानकारी गराउन सरकारी तथा निजी क्षेत्रका प्रतिनिधिहरूसँग संवाद र सहकार्य गर्ने ।
+ 15 [h4]
+    EN: Recommendations for policymakers
+    NE: नीति निर्माताहरूका लागि सुझाबः
+ 16 [li]
+    EN: Adopt fair, accountable, and transparent digital policymaking and governance processes
+    NE: निष्पक्ष, जवाफदेही र पारदर्शी डिजिटल नीति निर्माण तथा सुशासन प्रक्रियाहरू अपनाउने ।
+ 17 [li]
+    EN: Protect data and digital privacy of citizens
+    NE: नागरिकहरूको डेटा र डिजिटल गोपनीयताको रक्षा गर्ने ।
+ 18 [li]
+    EN: Ensure robust cybersecurity standards and protocols
+    NE: बलियो साइबर सुरक्षा मापदण्ड तथा प्रोटोकलहरू सुनिश्चित गर्ने ।
+ 19 [li]
+    EN: Reevaluate the use of technological solutions
+    NE: प्रविधिमा आधारित समाधानहरूको प्रयोगबारे पुनरावलोकन गर्ने ।
+ 20 [li]
+    EN: Create a national digital literacy mission
+    NE: राष्ट्रिय डिजिटल साक्षरता अभियान सञ्चालन गर्ने ।
+ 21 [summary]
+    EN: Recommendations for the Government
+    NE: सरकारका लागि सुझाबहरू
+ 22 [p]
+    EN: While official rhetoric frames the National ID as a driver of administrative efficiency and digital inclusion, our findings indica
+    NE: सरकारी भाष्यमा राष्ट्रिय परिचयपत्र प्रणालीलाई प्रशासनिक दक्षता बृद्धि र डिजिटल सेवामा समावेशीता बढाउने माध्यमका रूपमा प्रस्तुत गरि
+ 23 [p]
+    EN: To resolve these structural flaws, we present policy recommendations organized around three core pillars: Governance, Accessibilit
+    NE: यी संरचनागत कमजोरीहरू सम्बोधन गर्न यस अध्ययनले शासन, पहुँच र जवाफदेहिता वरिपरि तीन आधारहरूमा वर्गीकरण गरेर नीतिगत सुझाव प्रस्तुत ग
+ 24 [p]
+    EN: Transition from compulsory rollout to consent-based adoption. To fulfill its mandate as an administrative tool for public convenie
+    NE: अनिवार्य दर्ताको सट्टा सहमतिमा आधारित स्वेच्छिक छनौट सुनिश्चित गर्नेः राष्ट्रिय परिचयपत्र अनिवार्य नभएर नागरिकको स्वैछिच्क सहमतिमा
+ 25 [p]
+    EN: Ensure a universal and non-discretionary access. Designed as a digital service foundation rather than a proof of citizenship, the 
+    NE: परिचयपत्रको भेदभावरहित सार्वभौम पहुँच स्थापित गर्नेः सिद्धान्ततः परिचयपत्रलाई नागरिक प्रमाणपत्रको प्रमाणभन्दा पनि डिजिटल सेवाको आध
+ 26 [p]
+    EN: Build a robust digital public infrastructure (DPI). A functional DPI cannot be realized through administrative decree alone. Fulfi
+    NE: बलियो डिजिटल सार्वजनिक पूर्वाधार निर्माण गर्नेः प्रशासनिक तजबिजमा मात्र डिजिटल सार्वजनिक पूर्वाधार प्रभावकारी हुन सक्दैन । भरपर्दो
+ 27 [p]
+    EN: Enact strong legal and policy frameworks. The current statutory basis, the National Identity Card and Civil Registration Act 2020,
+    NE: बलियो कानुनी र नीतिगत संरचना बनाउनेः राष्ट्रिय परिचयपत्र र पञ्जीकरण दर्ता ऐन २०७६ मा रहेको विद्यमान कानुनी भेदभावले गर्दा सबैको बा
+ 28 [p]
+    EN: Implement ethical and secure data governance. Managing sensitive personal and biometric information demands strict adherence to et
+    NE: डेटा गभर्न्यान्सलाई नैतिक र सुरक्षित रुपमा लागू गर्नेः अत्यधिक संवेदनशील व्यक्तिगत तथा बायोमेट्रिक तथ्यांक सङ्कलन र व्यवस्थापन गर्
+ 29 [p]
+    EN: Ensure secure interoperability, inter-agency coordination, and institutional clarity. A secure DPI relies on integrated interopera
+    NE: सुरक्षित अन्तरसञ्चालन, अन्तर-निकायगत समन्वय र संस्थागत स्पष्टता सुनिश्चित गर्नेः डिजिटल सार्वजनिक पूर्वाधारले सुरक्षित, अन्तरसञ्चा
+ 30 [p]
+    EN: Develop capable, dignified and culturally-literate public workforce. Public sector personnel require both technical training and h
+    NE: दक्ष, संवेदनशील र समावेशी जनशक्ति तयार गर्नेः सरकारी जनशक्तिको लागि प्राविधिक तालिम र मानव–केन्द्रित व्यवसायिक दक्षता आवश्यक पर्छ 
+ 31 [p]
+    EN: Strengthen digital literacy and embed digital rights education. Expanding digital literacy requires a long-term strategy that move
+    NE: डिजिटल साक्षरता र डिजिटल अधिकार शिक्षा सुदृढ गर्नेः डिजिटल साक्षरता विस्तार गर्न छोटो अवधिका कामचलाउ तालिमभन्दा पर दीर्घकालीन रणनै
+ 32 [p]
+    EN: Foster public transparency and consultative governance. The top-down, non-transparent deployment of the NID undermines public trus
+    NE: सार्वजनिक पारदर्शिता र परामर्शमा आधारित शासनलाई बढावा दिनेः राष्ट्रिय परिचयपत्रमा हाल विद्यमान केन्द्रिकृत र अपारदर्शी मोडलले सार्
+ 33 [p]
+    EN: Establish independent oversight and grievance mechanisms. To safeguard against systemic abuse and operational failures, Nepal must
+    NE: स्वतन्त्र निरीक्षण र गुनासो सुनुवाई संयन्त्रको व्यवस्था गर्नेः प्रणालीगत भेदभाव र सञ्चालनमा हुने विफलता रोकथाम गर्न सरकारले राष्ट्
+ 34 [summary]
+    EN: Recommendations for the Private Sector
+    NE: निजी क्षेत्रका लागि सुझाबहरू
+ 35 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: In Nepal, the private sector has played a commendable role in laying the groundwork for digital public infrastructure (DPI), inclu
+    NE: नेपालमा निजी क्षेत्रले डिजिटल सार्वजनिक पूर्वाधार र डिजिटल साक्षरता कार्यक्रमलाई अघि बढाउन प्रशंसनीय प्रयासहरू गरेको छ । तर, केही 
+ 36 [p]   <-- REVIEW: shares a doc line with a neighbouring unit (sentence split is a guess)
+    EN: Given that the NID, digital governance, and digital service delivery are still in their early stages, private companies must play 
+    NE: राष्ट्रिय परिचयपत्र, डिजिटल शासन र डिजिटल सेवा प्रवाह नेपालमा अझै प्रारम्भिक चरणमा रहेकाले निजी क्षेत्रले यसको विकासमा रचनात्मक र 
+ 37 [p]
+    EN: Uphold ethical data practices. Businesses using NID systems must enforce strong data minimization principles, clear privacy polici
+    NE: तथ्यांकको प्रयोगलाई जिम्मेवार र अधिकारमैत्री बनाउनेः राष्ट्रिय परिचयपत्र प्रयोग गर्ने व्यवसायीहरूले तथ्यांक न्यूनिकरणको बलियो सिद्
+ 38 [p]   <-- REVIEW: length ratio 1.62
+    EN: Design inclusive services and responsible innovation. Commercial platforms connected to the NID should be designed for universal a
+    NE: समावेशी सेवा र विश्वसनीय प्रविधिको विकास गर्नेः राष्ट्रिय परिचयपत्रसँग जोडिएका व्यवसायिक डिजिटल सेवाहरू सबै नागरिकको पहुँचमा हुनेग
+ 39 [p]
+    EN: Contribute to public awareness and multi-stakeholders collaboration. Private sector actors should utilize their customer onboardin
+    NE: सार्वजनिक सचेतना र बहुपक्षीय सरोकारवालाहरूबीच सहकार्य बढाउनेः निजी क्षेत्रले आफूसँग आवद्ध ग्राहकलाई डिजिटल अधिकार, गोपनीयता र डेटा
+ 40 [summary]
+    EN: Recommendations for Civil Society
+    NE: नागरिक समाजका लागि सुझाबहरू
+ 41 [p]
+    EN: Civil society and varieties of its organizations occupy an indispensable position in shaping rights-based digital governance, serv
+    NE: अधिकारमा आधारित डिजिटल शासनलाई आकार दिन नागरिक समाज र सामाजिक संस्थाहरूको भूमिका महत्वपूर्ण छ । राष्ट्रिय परिचयपत्र प्रणालीले विद्
+ 42 [p]
+    EN: CSOs in particular should work alongside vulnerable groups to ensure that the NID system rigorously upholds the principles of data
+    NE: राष्ट्रिय परिचयपत्र प्रणालीमा डेटा गोपनीयताको सिद्धान्त, सुसूचित सहमति र भेदभावरहित कार्य सुनिश्चित गराउन सामाजिक संस्थाहरूले सीमा
+ 43 [p]
+    EN: Advocate for rights-based legal and policy frameworks. Civil society broadly and CSOs in particular, must advocate comprehensive t
+    NE: अधिकारमुखी कानुनी र नीतिगत व्यवस्थाका लागि पैरवी गर्नेः व्यापक रूपमा नागरिक समाजले र विशेषगरी सामाजिक संघ÷संगठनहरूले गोपनीयता, कडा
+ 44 [p]
+    EN: Strengthen digital literacy and digital rights education. CSOs can serve as vital partners alongside the state, empowering communi
+    NE: डिजिटल साक्षरता र डिजिटल अधिकार शिक्षा सुदृढ गर्नेः नागरिक समाज र सामाजिक संघ÷संगठनहरूले राज्यसँग सहकार्य गर्दै, विशेषगरी लामोसमयद
+ 45 [p]
+    EN: Facilitate evidence-based public discussions and center lived experiences. CSOs should lead informed dialogue concerning the multi
+    NE: तथ्यमा आधारित सार्वजनिक छलफल र जीवन्त भोगाईहरूलाई प्राथमिकता दिनेः नागरिक समाज र सामाजिक संघ÷संगठनहरूले सार्वजनिक मञ्च, सञ्चार माध
+ 46 [p]
+    EN: Monitor implementation and report harms. Civil society must function as independent watchdogs to ensure that the rollout of the Na
+    NE: कार्यान्वयनको अनुगमन र क्षतिको रिपोर्ट गर्नेः अधिकारमुखी राष्ट्रिय परिचयपत्रको कार्यान्वयन सुनिश्चित गर्न नागरिक समाज र सामाजिक सं
+ 47 [p]
+    EN: Build coalitions and cross-sector partnerships. To effectively navigate the complex, deeply intertwined impacts of the National ID
+    NE: सञ्जाल र अन्तरक्षेत्रीय साझेदारी निर्माण गर्नेः राष्ट्रिय परिचयपत्रका प्रभावहरूलाई राम्रोसँग बुझ्न र संबोधन गर्न नागरिक समाज र साम

@@ -1,0 +1,46 @@
+Units on the web page that have NO Nepali text in the .doc (need translating):
+
+[exec-summary #5 <p>] Addressed in Chapter II, which traces the policy origins and intended trajectory of the initiative.
+
+[exec-summary #7 <p>] Addressed in Chapter III, which examines the evolving political ambitions of the Nepali state against the material hurdles of execution.
+
+[exec-summary #9 <p>] Addressed in Chapters IV and V, which evaluate the governance conditions shaping citizens’ access, the politics of rights and entitlement, civil society engagement, and the fault lines between inclusion and surveillance.
+
+[ch2 #3 <figcaption>] National ID Card of nepal
+
+[ch2 #63 <div>] Concept introduced
+
+[ch2 #66 <div>] Voter-ID pilot
+
+[ch2 #69 <div>] Enrollment begins
+
+[ch2 #72 <div>] Bill tabled
+
+[ch2 #75 <div>] Bill passed
+
+[ch2 #78 <div>] E-passports & SIM linkage begins
+
+[ch2 #81 <div>] Mandatory-use plans announced
+
+[ch2 #84 <div>] Birth certificates carry NINs
+
+[ch2 #87 <div>] Mandatory for essential services
+
+[ch2 #90 <div>] Supreme Court suspends mandate
+
+[ch2 #93 <div>] Bank-account directive
+
+[ch2 #96 <div>] Interim order nullified
+
+[ch2 #99 <div>] Exemptions announced
+
+[ch2 #102 <div>] Cards printed and received
+
+[ch2 #105 <div>] Social-security mandate reversed
+
+[ch2 #108 <div>] Nagarik app integration
+
+[ch2 #123 <h4>] NID Timeline at a Glance
+
+[references #2 <p>] Numbered footnotes throughout this report (like this) can be clicked to reveal the short citation or note. The full reference list follows.
+

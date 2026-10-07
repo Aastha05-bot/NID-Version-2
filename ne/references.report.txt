@@ -1,0 +1,124 @@
+### references: 41 units
+  0 [p]   <-- DRAFT (written by Claude, not in doc)
+    EN: Back Matter
+    NE: अन्तिम सामग्री
+  1 [h2]
+    EN: References & Footnotes
+    NE: सन्दर्भ सामग्री
+  2 [p]
+    EN: Numbered footnotes throughout this report (like this) can be clicked to reveal the short citation or note. The full reference list
+    NE: @@TODO@@
+  3 [summary]   <-- DRAFT (written by Claude, not in doc)
+    EN: Full Reference List
+    NE: पूर्ण सन्दर्भ सूची
+  4 [p]
+    EN: Aiyar, Shankkar. 2017. Aadhar: A Biometric History of India’s 12-Digit Revolution. Chennai: Westland Publications.
+    NE: @@KEEP@@
+  5 [p]
+    EN: Ajana, Btihaj. 2012. Biometric citizenship. Citizenship Studies 16 (7): 851–870.
+    NE: @@KEEP@@
+  6 [p]
+    EN: Albro, R., G. E. Marcus, L. McNamara and M. Schoch-Spana, eds. 2012. Anthropologists in the Securityscape: Ethics, Practice, and P
+    NE: @@KEEP@@
+  7 [p]
+    EN: Baniya, Jeevan, Sanjita Shrestha, Sadikshya Bhattarai, Dogendra Tumsa, Bipin Upsdhyaya, Rajeb Neupane and Prasansa Thapa. 2023. Un
+    NE: @@KEEP@@
+  8 [p]
+    EN: Bhusal Thira Lal. 2024. National ID number is sufficient; you don’t need a hard copy. Interview with Yubaraj Katel. https://kathma
+    NE: @@KEEP@@
+  9 [p]
+    EN: Body & Data. 2022. Nepal’s Biometric National Identity Card: Experiences and Expectations from the Community. Kathmandu.
+    NE: @@KEEP@@
+ 10 [p]
+    EN: Breckenridge, K. 2019. The Global Ambitions of the Biometric Anti-Bank: Net1, Lockin and the Technologies of African Financialisat
+    NE: @@KEEP@@
+ 11 [p]
+    EN: Brase, Twila and Matt Flanders. 2018. Exposing Idemia: The Push for National Biometric IDs in America. Policy Insights, February h
+    NE: @@KEEP@@
+ 12 [p]
+    EN: Buggeland, Anne. 1999. Citizenship, Tenancy Rights and Identity: The Case of the Santals/Satars of Jhapa. In Nepal: Tharu and Tara
+    NE: @@KEEP@@
+ 13 [p]
+    EN: DoNIDCR. 2026. Progress Report of the Fourth Quarter of Department of National ID and Civil Registration 2025/26 [In Nepali]; http
+    NE: @@KEEP@@
+ 14 [p]
+    EN: DoNIDCR. 2024a. Annual Progress Report (Fiscal Year 2023/24). Kathmandu: Department of National ID and Civil Registration (DoNIDCR
+    NE: @@KEEP@@
+ 15 [p]
+    EN: DoNIDCR, 2024b. Progress Report of the Second Quarterly of Department of National ID and Civil Registration 2024/25 [In Nepali]; h
+    NE: @@KEEP@@
+ 16 [p]
+    EN: DoNIDCR. 2023a. FAQ: National ID. https://donidcr.gov.np/Home/NationalIDFaq (accessed 21 February 2023).
+    NE: @@KEEP@@
+ 17 [p]
+    EN: DoNIDCR, 2023b. Progress Report of the First Quarter of Department of National ID and Civil Registration 2024/25 [In Nepali]; http
+    NE: @@KEEP@@
+ 18 [p]
+    EN: Fuller, Gillian. 2003. Perfect Match: Biometrics and Body Patterning in a Networked World. Fibreculture 2 (1): http://one.fibrecul
+    NE: @@KEEP@@
+ 19 [p]
+    EN: Gelb, Alan and Anna Diofasi Metz. 2017. Identification Revolution. Can Digital ID be harnessed for Development? Center for Global 
+    NE: @@KEEP@@
+ 20 [p]
+    EN: Gelb, Alan and Julia Clark. 2013. Identification for Development: The Biometrics Revolution. Washington, DC: Center for Global Dev
+    NE: @@KEEP@@
+ 21 [p]
+    EN: Government of Nepal. The Privacy Act 2075 (2018), Pub. L. No. Act Number 14 of the year 2075 (2018).
+    NE: @@KEEP@@
+ 22 [p]
+    EN: Harsha Man Mahajan. Privacy, Security Issues Of National ID Card. Martin Chautari (blog), March 6, 2021. http://www.martinchautari
+    NE: @@KEEP@@
+ 23 [p]
+    EN: Himalayan News Service. 2019. Govt told to halt distribution of National ID cards. The Himalayan Times, https://thehimalayantimes.
+    NE: @@KEEP@@
+ 24 [p]
+    EN: Lal, Abha. 2022. Nepal’s Biometric Future. Himal South Aisanhttps://www.himalmag.com/biometric-future-identification-nepal-2022/ (
+    NE: @@KEEP@@
+ 25 [p]
+    EN: Lebovic, Nitzan. 2015. Biometrics, or the Power of the Radical Center. Critical Inquiry 41(4): 841-868.
+    NE: @@KEEP@@
+ 26 [p]
+    EN: Maguire, Mark. 2009. The birth of biometric security. Anthropology Today 25 (2): 9–14.
+    NE: @@KEEP@@
+ 27 [p]
+    EN: Pandey, Romkant and Suresh Bahadur Diyal. 2023. A Study on the Situation of National Identify Card in Nepal: implications and chal
+    NE: @@KEEP@@
+ 28 [p]
+    EN: Rao, Ursula. 2019. Re-Spatializing Social Security in India. In Spaces of Security, edited by S. Low and M. Maguire, 231–252. New 
+    NE: @@KEEP@@
+ 29 [p]
+    EN: Sigdel Santosh. 2023. National ID Card System: A misguided priority. https://www.nepallivetoday.com/2023/06/29/national-id-card-sy
+    NE: @@KEEP@@
+ 30 [p]
+    EN: Shrestha, Prithivi Man. 2024. Digital identification to be assigned during birth registration. The Kathmandu Post, March 4, https:
+    NE: @@KEEP@@
+ 31 [p]
+    EN: Shrestha, Sabin and Sabin Mulmi. 2016. Legal Analysis of Citizenship Law of Nepal. Kathmandu: Forum for Women, Law and Development
+    NE: @@KEEP@@
+ 32 [p]
+    EN: The Kathmandu Post. 2024. Ideate before implementing [editorial]. https://kathmandupost.com/editorial/2024/08/21/ideate-before-imp
+    NE: @@KEEP@@
+ 33 [p]
+    EN: The Kathmandu Post. 2024. Government backtracks on plan to make National ID cards mandatory for social security allowance. https:/
+    NE: @@KEEP@@
+ 34 [p]
+    EN: The Kathmandu Post. 2024. Digital identification to be assigned during birth registration. https://kathmandupost.com/national/2024
+    NE: @@KEEP@@
+ 35 [p]
+    EN: Dignity Post. 2023. National ID Card System: A misguided priority. https://www.dignitypost.com/news/2023/07/68
+    NE: @@KEEP@@
+ 36 [p]
+    EN: World Bank.2014. Identification for development (ID4D): Strategic framework and roadmap. World Bank Group.
+    NE: @@KEEP@@
+ 37 [p]
+    EN: World Bank. 2016a. World Development Report 2016: Digital Dividends: Overview. The World Bank Group.
+    NE: @@KEEP@@
+ 38 [p]
+    EN: World Bank. 2016b. Digital Identity: Towards Shared Principles for Public and Private Sector Cooperation: A joint World Bank Group
+    NE: @@KEEP@@
+ 39 [p]
+    EN: Zelazny, Frances. 2012. The Evolution of India’s UID Program: Lessons Learned and Implications for Other Developing Countries. CGD
+    NE: @@KEEP@@
+ 40 [p]
+    EN: Ziewitz, Malte. 2016. Governing Algorithms: Myth, Mess, and Methods. Science, Technology, and Human Values 41 (1): 3–16.
+    NE: @@KEEP@@

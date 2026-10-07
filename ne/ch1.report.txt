@@ -1,0 +1,112 @@
+### ch1: 37 units
+  0 [p]   <-- DRAFT (written by Claude, not in doc)
+    EN: Chapter I
+    NE: अध्याय १
+  1 [h2]
+    EN: Introduction
+    NE: परिचय
+  2 [p]
+    EN: Nepal’s new digital identification system is considered a “game changer” within state institutions, especially by government autho
+    NE: राज्यका उच्च ओहदामा कार्यरत सरकारी अधिकारीहरूले नेपालको नयाँ डिजिटल पहिचान प्रणालीलाई “गेम चेन्जर” मान्छन् । “राष्ट्रिय परिचयपत्र”
+  3 [p]
+    EN: Although the National ID system was initiated before the enactment of its governing legislation, the National ID and Civil Registr
+    NE: राष्ट्रिय परिचयपत्र तथा पञ्जीकरण ऐन २०७७ भदौमा लागू हुनुभन्दा केही वर्ष अघि नै राष्ट्रिय परिचयपत्र दर्ताको प्रक्रिया प्रारम्भ गरिए
+  4 [p]
+    EN: Citizenship certificates are a prerequisite for accessing a wide range of services and rights, including birth or marriage registr
+    NE: नेपालमा पाइला-पाइलामा नागरिकता प्रमाणपत्र आवश्यक पर्छ । जन्म दर्ता होस् वा विवाह दर्ता, उच्च शिक्षा वा व्यावसायिक परीक्षा, अनौपचार
+  5 [p]
+    EN: Following the Nepal Citizenship Act 2006, the children of citizens who were granted citizenship certificates based on birth right,
+    NE: नेपाल नागरिकता ऐन २०६३ बमोजिम जन्मका आधारमा नागरिकता प्रमाणपत्र पाएका नागरिकका सन्तानहरू नागरिकता प्रमाणपत्र पाउनबाट वञ्चित भए । त
+  6 [p]
+    EN: Regarding citizenship through either the mother or father, Section 8(2)(b) of the Interim Constitution of Nepal guarantees fundame
+    NE: नेपालको अन्तरिम संविधानमा मौलिक हक लिपिबद्ध भए पनि आमा वा बाबुबाट नागरिकता प्राप्त गर्ने सवालमा नेपाल नागरिकता ऐन २०६३ को दफा ८(१)
+  7 [p]
+    EN: With the launch of the NID, the government ambitiously claimed that by 2023, all Nepali residents would be biometrically enrolled.
+    NE: राष्ट्रिय परिचयपत्रको सुरुवाती दिनमै सरकारले २०८० सालसम्म सबै नेपाली बासिन्दा बायोमेट्रिक रूपमा आबद्ध हुने महत्वाकांक्षी दाबी गर्य
+  8 [p]
+    EN: Nepal’s capacity to advance its digital identification measures will be tested in the coming years, contingent upon the effective 
+    NE: राष्ट्रिय परिचयपत्र प्रणालीको प्रभावकारी कार्यान्वयन र प्राविधिक अनुकूलनले आगामी वर्षहरूमा नेपालको क्षमताको परीक्षण गर्ने छ । सो क
+  9 [p]
+    EN: As in other countries, Nepal’s investment in a digital identification system aims to enhance accountability in public security and
+    NE: अन्य देशहरूमा जस्तै, नेपालले डिजिटल पहिचान प्रणालीमा गरेको लगानीको उद्देश्य सार्वजनिक सुरक्षामा जवाफदेहिता अभिवृद्धि गर्नु र नागरि
+ 10 [p]
+    EN: This study found that, despite claims of gains in digital governance, there are tradeoffs, as the digital shift introduces new for
+    NE: यसै अध्ययनबाट थाहा भयो, डिजिटल शासनमा सुधार आएसँगै लाभ हुने दावी गरिएपनि त्यसका केही नकारात्मक असरहरू पनि छन् । किनकि डिजिटल प्रणा
+ 11 [p]
+    EN: There is a growing interest in improving social services and protecting citizens’ rights, especially among major development organ
+    NE: विशेषगरी विश्व बैंक र संयुक्त राष्ट्र संघ जस्ता प्रमुख विकास संस्थाहरूमा सामाजिक सेवाहरू सुधार गर्न र नागरिकका अधिकार संरक्षण कार्
+ 12 [p]
+    EN: To meet these goals, many development programs are implementing new types of digital identification systems. These digital IDs are
+    NE: यी लक्ष्यहरू पूरा गर्न, धेरै विकास कार्यक्रमहरूले नयाँ प्रकारका डिजिटल पहिचान प्रणालीहरू लागू गरिरहेका छन् । यी डिजिटल पहिचानलाई म
+ 13 [p]
+    EN: However, in trying to make identification more modern and efficient, some governments and donors are working with private companie
+    NE: तर, पहिचानलाई थप आधुनिक र प्रभावकारी बनाउने प्रयासमा केही सरकार र दाताहरूले निजी कम्पनीहरूसँग यस्तो खालको सहकार्य गरिरहेका छन्, जस
+ 14 [p]
+    EN: For citizens, issuing proof of their identity to access any service is not a new concept. Historically, citizens have used various
+    NE: कुनै पनि सेवामा पहुँच सुनिश्चित गर्न आफ्नो पहिचान प्रमाणित गर्ने कागजात देखाउनु नागरिकका लागि नयाँ कुरा होइन । ऐतिहासिक रूपमा नागर
+ 15 [p]
+    EN: By introducing a standardized national identity for both public and private sectors, the government aims to achieve the objectives
+    NE: सरकारको उद्देश्य, सार्वजनिक र निजी दुवै क्षेत्रका लागि मानकीकृत राष्ट्रिय पहिचानको परिचयपत्र लागू गर्नु हो । यसले ठगी रोक्ने, लागत
+ 16 [summary]
+    EN: About this Study
+    NE: यस अध्ययनबारे
+ 17 [p]   <-- REVIEW: length ratio 1.79
+    EN: This study examines the real-world consequences of identification processes, exploring the concept of the National ID, the politic
+    NE: यस अध्ययनले राष्ट्रिय परिचयपत्रको अवधारणा, बायोमेट्रिक परियोजनाहरूसँग सम्बन्धित नेपाली राज्यका राजनीतिक प्राथमिकताहरू र डिजिटल प्र
+ 18 [p]
+    EN: a) Why is the Nepali state prioritizing digital identification?
+    NE: क) नेपाली राज्यले किन डिजिटल पहिचानलाई किन प्राथमिकता दिइरहेको छ ?
+ 19 [p]
+    EN: b) How is the government executing its digital identification program?
+    NE: ख) सरकारले डिजिटल पहिचानको योजना कसरी सञ्चालन गरिरहेको छ ?
+ 20 [p]
+    EN: c) How do citizens experience and navigate the government’s ambitious biometric initiative?
+    NE: ग) सरकारको महत्वाकांक्षी बायोमेट्रिक पहल कार्यक्रमहरुलाई नागरिकहरूले कसरी अनुभव गर्छन् र सामना गर्छन् ?
+ 21 [p]
+    EN: This study expands on Body and Data’s previous research on the National ID (see Box 1), which focused on the pilot phase of the id
+    NE: बडी एण्ड डाटाले राष्ट्रिय परिचयपत्र (बक्स १ हेर्नुहोस्) परियोजनाको परीक्षण चरणबारे अध्ययन गरेको थियो । यो अध्ययन त्यसैको निरन्तरता
+ 22 [summary]
+    EN: Box 1: Digitization of Identity in Nepal: Efforts, Experience and Effects
+    NE: बक्सा १: नेपालमा पहिचानको डिजिटाइजेसनः प्रयत्न, अनुभव र प्रभाव
+ 23 [p]
+    EN: In 2021, Body & Data conducted a pilot study titled Digitization of Identity in Nepal: Efforts, Experiences, and Effects, which ex
+    NE: २०७८ सालमा बडी एण्ड डाटाले नेपालमा पहिचानको डिजिटाइजेसनः प्रयत्न, अनुभव र प्रभाव शीर्षकमा राष्ट्रिय परिचयपत्र कार्यक्रमको प्रारम्भ
+ 24 [p]
+    EN: The study focused on how end-users navigated the registration process, their lived experiences, and the broader impacts of the pro
+    NE: अध्ययनको मुख्य उद्देश्य नेपालको राष्ट्रिय परिचयपत्र कार्यक्रमप्रति प्रयोगकर्ताहरूको अपेक्षा, त्योसँग गाँसिएको उनीहरूका अनुभव र त्य
+ 25 [p]
+    EN: The findings aligned with global critiques of digital ID systems, revealing significant gaps between policy promises and on-the-gr
+    NE: अध्ययनका नतिजाहरू डिजिटल पहिचान प्रणालीसम्बन्धी विश्वव्यापी आलोचनाहरूसँग मेल खाए । ती नतिजाहरुले नीतिगत प्रतिवद्धता र व्यवहारमा दे
+ 26 [p]
+    EN: Key concerns identified in the study include:
+    NE: अध्ययनमा पहिचान गरिएका मुख्य सरोकारहरूः
+ 27 [li]
+    EN: Lack of Multistakeholder Engagement: The NID program was launched without adequate public consultation or transparency, particular
+    NE: बहुसरोकारमुखी संलग्नताको अभावः राष्ट्रिय परिचयपत्र कार्यक्रम पर्याप्त सार्वजनिक परामर्श वा पारदर्शिताबिना सञ्चालन गरिएको थियो । त्
+ 28 [li]
+    EN: Centralized Data and Multipurpose Use: The use of a centralized database and the integration of NID with both public and private s
+    NE: केन्द्रीकृत डेटा र बहुउद्देश्यीय प्रयोगः केन्द्रीकृत डेटाबेसको प्रयोग र सार्वजनिक तथा निजी दुवै सेवाहरूलाई राष्ट्रिय परिचयपत्रमा ए
+ 29 [li]
+    EN: Increased Surveillance Risks: Biometric data collection, such as fingerprints and iris scans, goes beyond identification, raising 
+    NE: बढ्दो निगरानीको जोखिमः औँठाछाप र आँखाको रेटिना (आइरिस) स्क्यानजस्ता बायोमेट्रिक डेटा सङ्कलनले पहिचानको प्रमाणीकरण मात्रै गर्दैन, त
+ 30 [li]
+    EN: Social Exclusion: The system risks reinforcing or worsening existing inequalities, especially for women in patriarchal contexts, p
+    NE: सामाजिक बहिष्करणः यस प्रणालीले पितृसत्तात्मक संरचनामा रहेका महिलाहरू, अपंगता भएका व्यक्तिहरू, आप्रवासीहरू, र यौनिक तथा लैंगिक अल्प
+ 31 [p]
+    EN: Body & Data approached this study through a qualitative lens. Semi-structured interviews were conducted with end-users, government
+    NE: बढी एण्ड डाटाले यो अध्ययन गुणात्मक दृष्टिकोणबाट गरेको थियो । राष्ट्रिय परिचयपत्रको कार्यान्वयनमा संलग्न प्रयोगकर्ताहरू, सरकारी अधि
+ 32 [p]
+    EN: The study was carried out between September 2022 and November 2023 across three purposely selected districts: Kathmandu, Sarlahi, 
+    NE: यो अध्ययन चरबद्ध रुपमा गरिएको छ । २०७९ भदौदेखि २०८० असोजबीचको अवधिमा काठमाडौं, सर्लाही र खोटाङ गरी तीन जिल्लाका केही ठाउँमा स्थलगत
+ 33 [p]
+    EN: Khotang and Sarlahi were selected based on the government’s enrollment performance assessment, representing contrasting administra
+    NE: काठमाडौँ बाहिरको लागि अर्कै मापदण्ड अपनाइयो । सरकारले कार्यसम्पादनबारे गरेको मूल्यांकनको आधारमा खोटाङ र सर्लाही जिल्लालाई अध्ययनको
+ 34 [p]
+    EN: Drawing on primary government records, field based observations, in-depth interviews, consultative meetings, and FGDs, the qualita
+    NE: यो सरकारी अभिलेखको विश्लेषण, स्थलगत अवलोकन, गहन अन्तर्वार्ता, परामर्श बैठक र समूहमा केन्द्रित छलफलको आधारमा तयार पारिएको गुणात्मक 
+ 35 [p]
+    EN: During the initial fieldwork phases outside the Kathmandu Valley, NID enrollment was actively underway, though physical card distr
+    NE: काठमाडौं उपत्यका बाहिरको स्थलगत अनुसन्धान गरिँदाको समयमा राष्ट्रिय परिचयपत्र लिने क्रम चलिरहेको र व्यक्तिगत तथ्यांक संकलन कार्य पन
+ 36 [p]
+    EN: Structurally, this report is organized into four thematic sections: the origins of the National ID, its operational implementation
+    NE: यो प्रतिवेदन चार खण्डमा विभाजित छः राष्ट्रिय परिचयपत्रको जन्म, सो परियोजनाको कार्यान्वयन, विवाद र मतभेदहरू, र गोपनीयतासम्बन्धी नाग
