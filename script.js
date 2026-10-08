@@ -230,6 +230,24 @@
             el.textContent = target;
           }
         });
+        // Swap image sources with data-src-en / data-src-ne
+        document.querySelectorAll('[data-src-en], [data-src-ne]').forEach(img => {
+          const enSrc = img.getAttribute('data-src-en');
+          const neSrc = img.getAttribute('data-src-ne');
+          const targetSrc = lang === 'ne' ? (neSrc || enSrc) : (enSrc || neSrc);
+          if (targetSrc) {
+            img.src = targetSrc;
+          }
+        });
+        // Swap image alt attributes with data-alt-en / data-alt-ne
+        document.querySelectorAll('[data-alt-en], [data-alt-ne]').forEach(img => {
+          const enAlt = img.getAttribute('data-alt-en');
+          const neAlt = img.getAttribute('data-alt-ne');
+          const targetAlt = lang === 'ne' ? (neAlt || enAlt) : (enAlt || neAlt);
+          if (targetAlt) {
+            img.alt = targetAlt;
+          }
+        });
         // Page <title> (special case – no child elements)
         const titleEl = document.querySelector('title');
         if (titleEl) {
