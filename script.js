@@ -1,7 +1,7 @@
-(async function(){
+(async function () {
   const svgNamespace = 'http://www.w3.org/2000/svg';
 
-  function createDataNode(node, parentNamespace = null){
+  function createDataNode(node, parentNamespace = null) {
     if (typeof node === 'string') return document.createTextNode(node);
     const namespace = parentNamespace || (node.tag === 'svg' ? svgNamespace : null);
     const element = namespace ? document.createElementNS(namespace, node.tag) : document.createElement(node.tag);
@@ -19,7 +19,7 @@
     mount.textContent = 'Report content could not be loaded.';
   }
 
-  (function(){
+  (function () {
     let scale = 1;
     const root = document.documentElement;
     const zoomIn = document.getElementById('zoomIn');
@@ -55,7 +55,7 @@
       let ticking = false;
 
       const nav = document.querySelector('.topnav');
-      function setNavH(){ if (nav) document.documentElement.style.setProperty('--nav-h', nav.offsetHeight + 'px'); }
+      function setNavH() { if (nav) document.documentElement.style.setProperty('--nav-h', nav.offsetHeight + 'px'); }
       setNavH();
       window.addEventListener('resize', setNavH);
       window.addEventListener('load', setNavH);
@@ -63,7 +63,7 @@
       toc.dataset.mode = 'open';
       head.setAttribute('aria-expanded', 'true');
 
-      function updateVisibility(){
+      function updateVisibility() {
         ticking = false;
         const y = window.scrollY, vh = window.innerHeight;
         const top = glance.getBoundingClientRect().top + y;
@@ -91,8 +91,8 @@
     }
 
     let activePop = null;
-    function closePop(){ if (activePop) { activePop.remove(); activePop = null; } }
-    function showPop(target, text){
+    function closePop() { if (activePop) { activePop.remove(); activePop = null; } }
+    function showPop(target, text) {
       closePop();
       const pop = document.createElement('div');
       pop.className = 'pop';
@@ -142,7 +142,7 @@
       const sites = [...shell.querySelectorAll('.site')];
       let pinned = null;
 
-      function scaleLabels(){
+      function scaleLabels() {
         const w = svg ? svg.getBoundingClientRect().width || 1000 : 1000;
         const units = 1000 / w;
         if (svg) svg.style.setProperty('--nm-fs', Math.max(19, 12.5 * units).toFixed(1) + 'px');
@@ -150,11 +150,11 @@
       scaleLabels();
       window.addEventListener('resize', scaleLabels);
 
-      function esc(s){
-        return s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+      function esc(s) {
+        return s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
       }
 
-      function show(site){
+      function show(site) {
         sites.forEach(s => s.classList.toggle('on', s === site));
         if (tip) {
           tip.innerHTML = '<strong>' + esc(site.dataset.name) + '</strong><span class="kind">' + esc(site.dataset.kind) + '</span><p>' + esc(site.dataset.note) + '</p>';
@@ -174,7 +174,7 @@
         }
       }
 
-      function hide(){
+      function hide() {
         pinned = null;
         if (tip) tip.classList.remove('show');
         sites.forEach(s => s.classList.remove('on'));
@@ -204,19 +204,19 @@
     /* ═══════════════════════════════════════════════════════════
        LANGUAGE TOGGLE  –  English ↔ नेपाली
        ═══════════════════════════════════════════════════════════ */
-    (function initLangToggle(){
+    (function initLangToggle() {
       const btn = document.getElementById('langToggle');
       if (!btn) return;
 
       let currentLang = 'en';
 
       /* ── helper: cache original text on an element ─────────── */
-      function cacheOrig(el, attr){
+      function cacheOrig(el, attr) {
         if (!el.dataset[attr]) el.dataset[attr] = el.textContent;
       }
 
       /* ── 1. Static elements: swap via [data-en] / [data-ne] ── */
-      function applyLangToStaticEls(lang){
+      function applyLangToStaticEls(lang) {
         // Swap all elements carrying data-en / data-ne attributes
         document.querySelectorAll('[data-en]').forEach(el => {
           const enVal = el.getAttribute('data-en');
@@ -261,7 +261,7 @@
       }
 
       /* ── 2. Dynamic report sections ────────────────────────── */
-      function patchSection(sectionId, t, lang){
+      function patchSection(sectionId, t, lang) {
         const sec = document.getElementById(sectionId);
         if (!t || !sec) return;
 
@@ -367,7 +367,7 @@
           cards.forEach((card, i) => {
             if (i >= t.terms.length) return;
             const titleEl = card.querySelector('.t');
-            const defEl   = card.querySelector('.d');
+            const defEl = card.querySelector('.d');
             if (titleEl) {
               cacheOrig(titleEl, 'enOrig');
               titleEl.textContent = lang === 'ne' ? t.terms[i].title : titleEl.dataset.enOrig;
@@ -379,12 +379,12 @@
             // also update the data-term and data-def used by pop-up tooltips
             if (lang === 'ne') {
               if (!card.dataset.enTerm) card.dataset.enTerm = card.dataset.term;
-              if (!card.dataset.enDef)  card.dataset.enDef  = card.dataset.def;
+              if (!card.dataset.enDef) card.dataset.enDef = card.dataset.def;
               card.dataset.term = t.terms[i].title;
-              card.dataset.def  = t.terms[i].def;
+              card.dataset.def = t.terms[i].def;
             } else {
               if (card.dataset.enTerm) card.dataset.term = card.dataset.enTerm;
-              if (card.dataset.enDef)  card.dataset.def  = card.dataset.enDef;
+              if (card.dataset.enDef) card.dataset.def = card.dataset.enDef;
             }
           });
         }
@@ -466,7 +466,7 @@
         }
       }
 
-      function applyLangToDynamicContent(lang){
+      function applyLangToDynamicContent(lang) {
         const tr = window.NE_TRANSLATIONS;
         if (!tr) return;
         Object.keys(tr).forEach(id => {
@@ -488,11 +488,11 @@
          ne.js holds one Nepali string per element (null = leave English).
          The selector + "leaf" rule below must stay identical to extract.py. */
       const UNIT_SEL = 'p,li,h2,h3,h4,summary,figcaption,caption,th,td,.tl-date,.tl-title,.tl-desc,.attr';
-      function unitsOf(sec){
+      function unitsOf(sec) {
         return [...sec.querySelectorAll(UNIT_SEL)].filter(el =>
           !el.querySelector(UNIT_SEL) && el.textContent.trim());
       }
-      function applyUnits(lang){
+      function applyUnits(lang) {
         const NE = window.NE_UNITS;
         if (!NE) return;
         Object.keys(NE).forEach(id => {
@@ -520,7 +520,7 @@
 
 
       /* ── 2c. "NID timeline at a glance" side panel (chapter 2) ── */
-      function applyMini(lang){
+      function applyMini(lang) {
         const T = window.NE_MINI_TL;
         if (!T) return;
         const items = [...document.querySelectorAll('.mini-tl-item')];
@@ -542,9 +542,9 @@
         const isNe = currentLang === 'ne';
 
         // Update button appearance
-        btn.textContent  = isNe ? 'English' : 'नेपाली';
-        btn.title        = isNe ? 'Switch to English' : 'Switch to Nepali';
-        btn.setAttribute('aria-label',   isNe ? 'Switch to English' : 'Switch to Nepali');
+        btn.textContent = isNe ? 'English' : 'नेपाली';
+        btn.title = isNe ? 'Switch to English' : 'Switch to Nepali';
+        btn.setAttribute('aria-label', isNe ? 'Switch to English' : 'Switch to Nepali');
         btn.setAttribute('aria-pressed', String(isNe));
         btn.classList.toggle('lang-active', isNe);
 
